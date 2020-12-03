@@ -1,13 +1,12 @@
-> Exploring effective ways of analysing, communicating and providing access to air quality data 
-> data coming from realitime dataset from https://data.gov.in/
-> please preview outputs in outs folder using https://htmlpreview.github.io/ to see the example interactive Graphs
+## data coming from realitime dataset from https://data.gov.in/
+# please preview outputs in outs folder using https://htmlpreview.github.io/ to see the example interactive Graphs
 
->GOALS:
->More interactive graphs and visualizations
+## GOALS:
+* More interactive graphs and visualizations
 
->automatically download data
-    >download current data using a scheduler
->deploy webapp
+* automatically download data
+    > download current data using a scheduler
+* deploy webapp
     >allow users to acess graphs + raw data 
     >allow user to see changes in airquality 
 
