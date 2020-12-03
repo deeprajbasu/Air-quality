@@ -1,5 +1,5 @@
 ## data coming from realitime dataset from https://data.gov.in/
-# please preview outputs in outs folder using https://htmlpreview.github.io/ to see the example interactive Graphs
+# Please preview outputs in 'outs' folder using https://htmlpreview.github.io/ to see the example interactive Graphs
 
 ## GOALS:
 * More interactive graphs and visualizations
