@@ -1,0 +1,1650 @@
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB","07-12-2020 07:00:00",PM2.5,50,129,77,NA
+2,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB","07-12-2020 07:00:00",PM10,54,96,74,NA
+3,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB","07-12-2020 07:00:00",NO2,11,25,16,NA
+4,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB","07-12-2020 07:00:00",NH3,3,5,4,NA
+5,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB","07-12-2020 07:00:00",SO2,14,19,17,NA
+6,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB","07-12-2020 07:00:00",CO,7,35,21,NA
+7,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB","07-12-2020 07:00:00",OZONE,36,78,42,NA
+8,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB","07-12-2020 07:00:00",PM2.5,45,123,71,NA
+9,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB","07-12-2020 07:00:00",PM10,60,111,87,NA
+10,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB","07-12-2020 07:00:00",NO2,13,37,23,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+11,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB","07-12-2020 07:00:00",NH3,2,2,2,NA
+12,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB","07-12-2020 07:00:00",SO2,7,42,23,NA
+13,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB","07-12-2020 07:00:00",CO,5,116,54,NA
+14,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB","07-12-2020 07:00:00",OZONE,40,96,44,NA
+15,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB","07-12-2020 07:00:00",PM2.5,2,17,7,NA
+16,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB","07-12-2020 07:00:00",PM10,2,16,7,NA
+17,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB","07-12-2020 07:00:00",NO2,11,30,22,NA
+18,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+19,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB","07-12-2020 07:00:00",SO2,5,10,7,NA
+20,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB","07-12-2020 07:00:00",CO,31,43,32,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+21,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB","07-12-2020 07:00:00",OZONE,16,279,53,NA
+22,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB","07-12-2020 07:00:00",PM2.5,60,127,94,NA
+23,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB","07-12-2020 07:00:00",PM10,76,110,94,NA
+24,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB","07-12-2020 07:00:00",NO2,29,55,37,NA
+25,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB","07-12-2020 07:00:00",NH3,2,2,2,NA
+26,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB","07-12-2020 07:00:00",SO2,13,17,15,NA
+27,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB","07-12-2020 07:00:00",CO,28,45,36,NA
+28,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB","07-12-2020 07:00:00",OZONE,61,83,72,NA
+29,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB","07-12-2020 07:00:00",PM2.5,43,327,147,NA
+30,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB","07-12-2020 07:00:00",PM10,48,251,118,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+31,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB","07-12-2020 07:00:00",NO2,8,54,20,NA
+32,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB","07-12-2020 07:00:00",NH3,1,1,1,NA
+33,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB","07-12-2020 07:00:00",SO2,26,27,26,NA
+34,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB","07-12-2020 07:00:00",CO,24,101,83,NA
+35,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB","07-12-2020 07:00:00",OZONE,13,25,19,NA
+36,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB","07-12-2020 07:00:00",PM2.5,46,350,156,NA
+37,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB","07-12-2020 07:00:00",NO2,7,10,8,NA
+38,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB","07-12-2020 07:00:00",SO2,5,43,16,NA
+39,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB","07-12-2020 07:00:00",CO,4,135,22,NA
+40,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB","07-12-2020 07:00:00",OZONE,33,88,43,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+41,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB","07-12-2020 07:00:00",PM2.5,39,300,136,NA
+42,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB","07-12-2020 07:00:00",PM10,75,135,110,NA
+43,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB","07-12-2020 07:00:00",NO2,9,9,9,NA
+44,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB","07-12-2020 07:00:00",NH3,4,4,4,NA
+45,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB","07-12-2020 07:00:00",SO2,1,12,3,NA
+46,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB","07-12-2020 07:00:00",CO,27,96,49,NA
+47,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB","07-12-2020 07:00:00",OZONE,6,168,20,NA
+48,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB","07-12-2020 07:00:00",PM10,86,100,93,NA
+49,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB","07-12-2020 07:00:00",NO2,24,38,34,NA
+50,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB","07-12-2020 07:00:00",NH3,1,1,1,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+51,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB","07-12-2020 07:00:00",SO2,2,6,4,NA
+52,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB","07-12-2020 07:00:00",CO,78,112,103,NA
+53,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB","07-12-2020 07:00:00",OZONE,7,9,8,NA
+54,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB","07-12-2020 07:00:00",PM2.5,140,283,222,NA
+55,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB","07-12-2020 07:00:00",PM10,165,500,281,NA
+56,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB","07-12-2020 07:00:00",NO2,12,35,18,NA
+57,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB","07-12-2020 07:00:00",NH3,6,11,8,NA
+58,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB","07-12-2020 07:00:00",SO2,4,6,5,NA
+59,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB","07-12-2020 07:00:00",CO,64,141,98,NA
+60,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB","07-12-2020 07:00:00",OZONE,6,184,11,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+61,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB","07-12-2020 07:00:00",PM2.5,374,500,446,NA
+62,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB","07-12-2020 07:00:00",NO2,2,4,3,NA
+63,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB","07-12-2020 07:00:00",SO2,14,19,17,NA
+64,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB","07-12-2020 07:00:00",CO,18,57,45,NA
+65,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB","07-12-2020 07:00:00",OZONE,14,21,17,NA
+66,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB","07-12-2020 07:00:00",PM2.5,247,366,319,NA
+67,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+68,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+69,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB","07-12-2020 07:00:00",SO2,3,9,5,NA
+70,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB","07-12-2020 07:00:00",CO,64,141,108,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+71,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB","07-12-2020 07:00:00",OZONE,5,103,10,NA
+72,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB","07-12-2020 07:00:00",PM2.5,208,361,301,NA
+73,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB","07-12-2020 07:00:00",PM10,111,317,189,NA
+74,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB","07-12-2020 07:00:00",NO2,17,27,20,NA
+75,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB","07-12-2020 07:00:00",NH3,3,4,4,NA
+76,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB","07-12-2020 07:00:00",SO2,10,14,11,NA
+77,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB","07-12-2020 07:00:00",CO,64,133,110,NA
+78,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB","07-12-2020 07:00:00",OZONE,1,26,1,NA
+79,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","07-12-2020 07:00:00",PM2.5,347,499,436,NA
+80,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","07-12-2020 07:00:00",NO2,114,151,134,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+81,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","07-12-2020 07:00:00",SO2,19,32,26,NA
+82,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","07-12-2020 07:00:00",CO,95,150,128,NA
+83,India,Bihar,Patna,"IGSC Planetarium Complex, Patna - BSPCB","07-12-2020 07:00:00",OZONE,53,63,60,NA
+84,India,Bihar,Patna,"Muradpur, Patna - BSPCB","07-12-2020 07:00:00",PM2.5,315,379,360,NA
+85,India,Bihar,Patna,"Muradpur, Patna - BSPCB","07-12-2020 07:00:00",PM10,161,269,224,NA
+86,India,Bihar,Patna,"Muradpur, Patna - BSPCB","07-12-2020 07:00:00",NO2,78,155,110,NA
+87,India,Bihar,Patna,"Muradpur, Patna - BSPCB","07-12-2020 07:00:00",NH3,6,8,7,NA
+88,India,Bihar,Patna,"Muradpur, Patna - BSPCB","07-12-2020 07:00:00",SO2,5,8,6,NA
+89,India,Bihar,Patna,"Muradpur, Patna - BSPCB","07-12-2020 07:00:00",CO,73,104,91,NA
+90,India,Bihar,Patna,"Muradpur, Patna - BSPCB","07-12-2020 07:00:00",OZONE,7,10,8,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+91,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB","07-12-2020 07:00:00",PM2.5,331,403,369,NA
+92,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB","07-12-2020 07:00:00",PM10,201,401,303,NA
+93,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB","07-12-2020 07:00:00",NO2,30,119,61,NA
+94,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+95,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB","07-12-2020 07:00:00",SO2,4,14,7,NA
+96,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB","07-12-2020 07:00:00",CO,52,144,108,NA
+97,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB","07-12-2020 07:00:00",OZONE,1,140,6,NA
+98,India,Bihar,Patna,"Samanpura, Patna - BSPCB","07-12-2020 07:00:00",PM2.5,111,365,289,NA
+99,India,Bihar,Patna,"Samanpura, Patna - BSPCB","07-12-2020 07:00:00",PM10,188,320,267,NA
+100,India,Bihar,Patna,"Samanpura, Patna - BSPCB","07-12-2020 07:00:00",NO2,67,131,94,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+101,India,Bihar,Patna,"Samanpura, Patna - BSPCB","07-12-2020 07:00:00",NH3,3,3,3,NA
+102,India,Bihar,Patna,"Samanpura, Patna - BSPCB","07-12-2020 07:00:00",SO2,7,14,9,NA
+103,India,Bihar,Patna,"Samanpura, Patna - BSPCB","07-12-2020 07:00:00",CO,71,119,109,NA
+104,India,Bihar,Patna,"Samanpura, Patna - BSPCB","07-12-2020 07:00:00",OZONE,2,115,4,NA
+105,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC","07-12-2020 07:00:00",PM2.5,46,145,88,NA
+106,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC","07-12-2020 07:00:00",PM10,76,146,104,NA
+107,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC","07-12-2020 07:00:00",NO2,27,100,46,NA
+108,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC","07-12-2020 07:00:00",NH3,12,40,18,NA
+109,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC","07-12-2020 07:00:00",SO2,2,39,14,NA
+110,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC","07-12-2020 07:00:00",CO,17,101,26,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+111,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC","07-12-2020 07:00:00",OZONE,3,77,8,NA
+112,India,Delhi,Delhi,"Alipur, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,325,474,423,NA
+113,India,Delhi,Delhi,"Alipur, Delhi - DPCC","07-12-2020 07:00:00",PM10,197,453,364,NA
+114,India,Delhi,Delhi,"Alipur, Delhi - DPCC","07-12-2020 07:00:00",NO2,27,139,60,NA
+115,India,Delhi,Delhi,"Alipur, Delhi - DPCC","07-12-2020 07:00:00",NH3,10,15,13,NA
+116,India,Delhi,Delhi,"Alipur, Delhi - DPCC","07-12-2020 07:00:00",SO2,13,31,20,NA
+117,India,Delhi,Delhi,"Alipur, Delhi - DPCC","07-12-2020 07:00:00",CO,45,102,84,NA
+118,India,Delhi,Delhi,"Alipur, Delhi - DPCC","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+119,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,308,500,432,NA
+120,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC","07-12-2020 07:00:00",PM10,189,496,370,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+121,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC","07-12-2020 07:00:00",NO2,75,186,128,NA
+122,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC","07-12-2020 07:00:00",NH3,10,14,12,NA
+123,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC","07-12-2020 07:00:00",SO2,2,38,19,NA
+124,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC","07-12-2020 07:00:00",CO,102,176,119,NA
+125,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC","07-12-2020 07:00:00",OZONE,13,81,16,NA
+126,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,327,500,442,NA
+127,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC","07-12-2020 07:00:00",PM10,218,431,355,NA
+128,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC","07-12-2020 07:00:00",NO2,63,140,87,NA
+129,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC","07-12-2020 07:00:00",NH3,4,6,5,NA
+130,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+131,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC","07-12-2020 07:00:00",CO,25,135,75,NA
+132,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC","07-12-2020 07:00:00",OZONE,5,210,12,NA
+133,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD","07-12-2020 07:00:00",PM2.5,279,433,369,NA
+134,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD","07-12-2020 07:00:00",PM10,155,421,300,NA
+135,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD","07-12-2020 07:00:00",NO2,13,74,28,NA
+136,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD","07-12-2020 07:00:00",CO,80,105,103,NA
+137,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD","07-12-2020 07:00:00",OZONE,4,18,4,NA
+138,India,Delhi,Delhi,"Bawana, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,341,500,440,NA
+139,India,Delhi,Delhi,"Bawana, Delhi - DPCC","07-12-2020 07:00:00",PM10,223,500,383,NA
+140,India,Delhi,Delhi,"Bawana, Delhi - DPCC","07-12-2020 07:00:00",NO2,27,126,63,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+141,India,Delhi,Delhi,"Bawana, Delhi - DPCC","07-12-2020 07:00:00",NH3,14,18,16,NA
+142,India,Delhi,Delhi,"Bawana, Delhi - DPCC","07-12-2020 07:00:00",SO2,4,8,6,NA
+143,India,Delhi,Delhi,"Bawana, Delhi - DPCC","07-12-2020 07:00:00",CO,37,109,82,NA
+144,India,Delhi,Delhi,"Bawana, Delhi - DPCC","07-12-2020 07:00:00",OZONE,2,110,6,NA
+145,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD","07-12-2020 07:00:00",PM2.5,265,468,393,NA
+146,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD","07-12-2020 07:00:00",PM10,188,459,374,NA
+147,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD","07-12-2020 07:00:00",NO2,11,66,32,NA
+148,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD","07-12-2020 07:00:00",CO,43,184,98,NA
+149,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD","07-12-2020 07:00:00",OZONE,3,20,4,NA
+150,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM","07-12-2020 07:00:00",PM2.5,229,409,324,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+151,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM","07-12-2020 07:00:00",PM10,168,500,351,NA
+152,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM","07-12-2020 07:00:00",NO2,29,87,47,NA
+153,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM","07-12-2020 07:00:00",NH3,1,17,4,NA
+154,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM","07-12-2020 07:00:00",SO2,4,12,6,NA
+155,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM","07-12-2020 07:00:00",CO,37,106,74,NA
+156,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM","07-12-2020 07:00:00",OZONE,1,20,3,NA
+157,India,Delhi,Delhi,"DTU, Delhi - CPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+158,India,Delhi,Delhi,"DTU, Delhi - CPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+159,India,Delhi,Delhi,"DTU, Delhi - CPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+160,India,Delhi,Delhi,"DTU, Delhi - CPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+161,India,Delhi,Delhi,"DTU, Delhi - CPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+162,India,Delhi,Delhi,"DTU, Delhi - CPCB","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+163,India,Delhi,Delhi,"DTU, Delhi - CPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+164,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,250,474,397,NA
+165,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC","07-12-2020 07:00:00",PM10,167,428,323,NA
+166,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC","07-12-2020 07:00:00",NO2,62,166,104,NA
+167,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC","07-12-2020 07:00:00",NH3,11,16,14,NA
+168,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC","07-12-2020 07:00:00",SO2,9,28,19,NA
+169,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC","07-12-2020 07:00:00",CO,52,111,104,NA
+170,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC","07-12-2020 07:00:00",OZONE,6,232,18,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+171,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ","07-12-2020 07:00:00",PM2.5,312,483,410,NA
+172,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ","07-12-2020 07:00:00",PM10,199,487,358,NA
+173,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ","07-12-2020 07:00:00",NO2,54,150,93,NA
+174,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ","07-12-2020 07:00:00",NH3,14,22,18,NA
+175,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ","07-12-2020 07:00:00",SO2,2,22,9,NA
+176,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ","07-12-2020 07:00:00",CO,38,141,100,NA
+177,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ","07-12-2020 07:00:00",OZONE,4,176,8,NA
+178,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD","07-12-2020 07:00:00",PM2.5,187,440,354,NA
+179,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD","07-12-2020 07:00:00",PM10,161,437,316,NA
+180,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD","07-12-2020 07:00:00",CO,44,108,97,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+181,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD","07-12-2020 07:00:00",OZONE,7,42,8,NA
+182,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB","07-12-2020 07:00:00",PM2.5,242,420,358,NA
+183,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB","07-12-2020 07:00:00",PM10,184,500,360,NA
+184,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB","07-12-2020 07:00:00",NO2,88,210,120,NA
+185,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB","07-12-2020 07:00:00",NH3,23,38,29,NA
+186,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB","07-12-2020 07:00:00",SO2,2,26,11,NA
+187,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB","07-12-2020 07:00:00",CO,35,118,73,NA
+188,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB","07-12-2020 07:00:00",OZONE,5,55,17,NA
+189,India,Delhi,Delhi,"ITO, Delhi - CPCB","07-12-2020 07:00:00",PM2.5,254,445,380,NA
+190,India,Delhi,Delhi,"ITO, Delhi - CPCB","07-12-2020 07:00:00",PM10,140,373,265,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+191,India,Delhi,Delhi,"ITO, Delhi - CPCB","07-12-2020 07:00:00",NO2,22,37,26,NA
+192,India,Delhi,Delhi,"ITO, Delhi - CPCB","07-12-2020 07:00:00",NH3,8,13,9,NA
+193,India,Delhi,Delhi,"ITO, Delhi - CPCB","07-12-2020 07:00:00",SO2,3,57,20,NA
+194,India,Delhi,Delhi,"ITO, Delhi - CPCB","07-12-2020 07:00:00",CO,102,162,119,NA
+195,India,Delhi,Delhi,"ITO, Delhi - CPCB","07-12-2020 07:00:00",OZONE,6,37,6,NA
+196,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,328,500,450,NA
+197,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC","07-12-2020 07:00:00",PM10,230,500,400,NA
+198,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC","07-12-2020 07:00:00",NO2,47,126,79,NA
+199,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC","07-12-2020 07:00:00",NH3,8,16,10,NA
+200,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC","07-12-2020 07:00:00",SO2,6,16,11,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+201,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC","07-12-2020 07:00:00",CO,72,127,93,NA
+202,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC","07-12-2020 07:00:00",OZONE,3,57,5,NA
+203,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,240,459,384,NA
+204,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC","07-12-2020 07:00:00",PM10,162,408,302,NA
+205,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC","07-12-2020 07:00:00",NO2,25,140,79,NA
+206,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC","07-12-2020 07:00:00",NH3,9,20,12,NA
+207,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC","07-12-2020 07:00:00",SO2,6,45,24,NA
+208,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC","07-12-2020 07:00:00",CO,32,119,100,NA
+209,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC","07-12-2020 07:00:00",OZONE,2,160,3,NA
+210,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM","07-12-2020 07:00:00",PM2.5,236,399,330,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+211,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM","07-12-2020 07:00:00",PM10,151,298,210,NA
+212,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM","07-12-2020 07:00:00",NO2,19,84,45,NA
+213,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM","07-12-2020 07:00:00",NH3,10,21,14,NA
+214,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM","07-12-2020 07:00:00",SO2,3,16,5,NA
+215,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM","07-12-2020 07:00:00",CO,40,49,47,NA
+216,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM","07-12-2020 07:00:00",OZONE,9,14,9,NA
+217,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD","07-12-2020 07:00:00",PM2.5,277,392,339,NA
+218,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD","07-12-2020 07:00:00",PM10,178,361,257,NA
+219,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD","07-12-2020 07:00:00",NO2,7,15,10,NA
+220,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD","07-12-2020 07:00:00",CO,78,107,105,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+221,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD","07-12-2020 07:00:00",OZONE,6,55,7,NA
+222,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,270,453,390,NA
+223,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC","07-12-2020 07:00:00",PM10,170,413,319,NA
+224,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC","07-12-2020 07:00:00",NO2,58,137,89,NA
+225,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC","07-12-2020 07:00:00",NH3,9,14,12,NA
+226,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC","07-12-2020 07:00:00",SO2,11,24,17,NA
+227,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC","07-12-2020 07:00:00",CO,22,125,70,NA
+228,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC","07-12-2020 07:00:00",OZONE,2,185,3,NA
+229,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,170,484,391,NA
+230,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC","07-12-2020 07:00:00",PM10,145,408,287,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+231,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC","07-12-2020 07:00:00",NO2,71,134,97,NA
+232,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC","07-12-2020 07:00:00",NH3,5,8,6,NA
+233,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC","07-12-2020 07:00:00",SO2,16,31,24,NA
+234,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC","07-12-2020 07:00:00",CO,90,90,90,NA
+235,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC","07-12-2020 07:00:00",OZONE,2,69,5,NA
+236,India,Delhi,Delhi,"Mundka, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,322,500,435,NA
+237,India,Delhi,Delhi,"Mundka, Delhi - DPCC","07-12-2020 07:00:00",PM10,189,467,357,NA
+238,India,Delhi,Delhi,"Mundka, Delhi - DPCC","07-12-2020 07:00:00",NO2,44,101,64,NA
+239,India,Delhi,Delhi,"Mundka, Delhi - DPCC","07-12-2020 07:00:00",NH3,11,14,13,NA
+240,India,Delhi,Delhi,"Mundka, Delhi - DPCC","07-12-2020 07:00:00",SO2,12,25,18,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+241,India,Delhi,Delhi,"Mundka, Delhi - DPCC","07-12-2020 07:00:00",CO,45,102,93,NA
+242,India,Delhi,Delhi,"Mundka, Delhi - DPCC","07-12-2020 07:00:00",OZONE,3,154,11,NA
+243,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB","07-12-2020 07:00:00",PM2.5,97,308,205,NA
+244,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB","07-12-2020 07:00:00",PM10,244,500,402,NA
+245,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB","07-12-2020 07:00:00",NO2,27,89,51,NA
+246,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB","07-12-2020 07:00:00",NH3,18,36,23,NA
+247,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB","07-12-2020 07:00:00",SO2,3,38,12,NA
+248,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB","07-12-2020 07:00:00",CO,19,112,38,NA
+249,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB","07-12-2020 07:00:00",OZONE,10,79,12,NA
+250,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,267,436,384,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+251,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC","07-12-2020 07:00:00",PM10,145,401,290,NA
+252,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC","07-12-2020 07:00:00",NO2,11,45,26,NA
+253,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC","07-12-2020 07:00:00",NH3,7,11,8,NA
+254,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC","07-12-2020 07:00:00",SO2,4,20,9,NA
+255,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC","07-12-2020 07:00:00",CO,48,101,93,NA
+256,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC","07-12-2020 07:00:00",OZONE,7,175,14,NA
+257,India,Delhi,Delhi,"Narela, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,316,489,429,NA
+258,India,Delhi,Delhi,"Narela, Delhi - DPCC","07-12-2020 07:00:00",PM10,212,462,383,NA
+259,India,Delhi,Delhi,"Narela, Delhi - DPCC","07-12-2020 07:00:00",NO2,35,173,78,NA
+260,India,Delhi,Delhi,"Narela, Delhi - DPCC","07-12-2020 07:00:00",NH3,9,12,11,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+261,India,Delhi,Delhi,"Narela, Delhi - DPCC","07-12-2020 07:00:00",SO2,5,18,10,NA
+262,India,Delhi,Delhi,"Narela, Delhi - DPCC","07-12-2020 07:00:00",CO,62,129,104,NA
+263,India,Delhi,Delhi,"Narela, Delhi - DPCC","07-12-2020 07:00:00",OZONE,9,178,17,NA
+264,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,310,500,430,NA
+265,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC","07-12-2020 07:00:00",PM10,175,455,349,NA
+266,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC","07-12-2020 07:00:00",NO2,61,207,113,NA
+267,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC","07-12-2020 07:00:00",NH3,14,23,17,NA
+268,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC","07-12-2020 07:00:00",SO2,7,28,16,NA
+269,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC","07-12-2020 07:00:00",CO,75,194,95,NA
+270,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC","07-12-2020 07:00:00",OZONE,4,264,6,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+271,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD","07-12-2020 07:00:00",PM2.5,304,462,378,NA
+272,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD","07-12-2020 07:00:00",PM10,183,427,307,NA
+273,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD","07-12-2020 07:00:00",NO2,24,71,43,NA
+274,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD","07-12-2020 07:00:00",CO,38,141,95,NA
+275,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD","07-12-2020 07:00:00",OZONE,8,76,11,NA
+276,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,207,486,401,NA
+277,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC","07-12-2020 07:00:00",PM10,164,441,364,NA
+278,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC","07-12-2020 07:00:00",NO2,51,141,91,NA
+279,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC","07-12-2020 07:00:00",NH3,8,10,9,NA
+280,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC","07-12-2020 07:00:00",SO2,12,22,16,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+281,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC","07-12-2020 07:00:00",CO,18,103,61,NA
+282,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC","07-12-2020 07:00:00",OZONE,3,92,6,NA
+283,India,Delhi,Delhi,"Patparganj, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,315,500,431,NA
+284,India,Delhi,Delhi,"Patparganj, Delhi - DPCC","07-12-2020 07:00:00",PM10,189,442,352,NA
+285,India,Delhi,Delhi,"Patparganj, Delhi - DPCC","07-12-2020 07:00:00",NO2,20,100,57,NA
+286,India,Delhi,Delhi,"Patparganj, Delhi - DPCC","07-12-2020 07:00:00",NH3,13,22,17,NA
+287,India,Delhi,Delhi,"Patparganj, Delhi - DPCC","07-12-2020 07:00:00",SO2,2,17,7,NA
+288,India,Delhi,Delhi,"Patparganj, Delhi - DPCC","07-12-2020 07:00:00",CO,47,125,81,NA
+289,India,Delhi,Delhi,"Patparganj, Delhi - DPCC","07-12-2020 07:00:00",OZONE,1,49,5,NA
+290,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,320,486,410,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+291,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC","07-12-2020 07:00:00",PM10,169,443,327,NA
+292,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC","07-12-2020 07:00:00",NO2,56,160,92,NA
+293,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC","07-12-2020 07:00:00",NH3,8,10,9,NA
+294,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC","07-12-2020 07:00:00",SO2,5,12,8,NA
+295,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC","07-12-2020 07:00:00",CO,50,131,95,NA
+296,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC","07-12-2020 07:00:00",OZONE,6,241,26,NA
+297,India,Delhi,Delhi,"Pusa, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,323,478,396,NA
+298,India,Delhi,Delhi,"Pusa, Delhi - DPCC","07-12-2020 07:00:00",PM10,243,444,356,NA
+299,India,Delhi,Delhi,"Pusa, Delhi - DPCC","07-12-2020 07:00:00",NO2,58,196,105,NA
+300,India,Delhi,Delhi,"Pusa, Delhi - DPCC","07-12-2020 07:00:00",NH3,8,21,14,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+301,India,Delhi,Delhi,"Pusa, Delhi - DPCC","07-12-2020 07:00:00",SO2,6,40,19,NA
+302,India,Delhi,Delhi,"Pusa, Delhi - DPCC","07-12-2020 07:00:00",OZONE,2,58,3,NA
+303,India,Delhi,Delhi,"Pusa, Delhi - IMD","07-12-2020 07:00:00",PM2.5,212,416,354,NA
+304,India,Delhi,Delhi,"Pusa, Delhi - IMD","07-12-2020 07:00:00",PM10,139,403,261,NA
+305,India,Delhi,Delhi,"Pusa, Delhi - IMD","07-12-2020 07:00:00",NO2,17,72,42,NA
+306,India,Delhi,Delhi,"Pusa, Delhi - IMD","07-12-2020 07:00:00",CO,40,80,74,NA
+307,India,Delhi,Delhi,"Pusa, Delhi - IMD","07-12-2020 07:00:00",OZONE,13,93,13,NA
+308,India,Delhi,Delhi,"R K Puram, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,243,492,405,NA
+309,India,Delhi,Delhi,"R K Puram, Delhi - DPCC","07-12-2020 07:00:00",PM10,149,416,308,NA
+310,India,Delhi,Delhi,"R K Puram, Delhi - DPCC","07-12-2020 07:00:00",NO2,4,71,22,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+311,India,Delhi,Delhi,"R K Puram, Delhi - DPCC","07-12-2020 07:00:00",NH3,1,8,3,NA
+312,India,Delhi,Delhi,"R K Puram, Delhi - DPCC","07-12-2020 07:00:00",CO,25,142,77,NA
+313,India,Delhi,Delhi,"R K Puram, Delhi - DPCC","07-12-2020 07:00:00",OZONE,5,208,9,NA
+314,India,Delhi,Delhi,"Rohini, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,320,500,429,NA
+315,India,Delhi,Delhi,"Rohini, Delhi - DPCC","07-12-2020 07:00:00",PM10,207,475,380,NA
+316,India,Delhi,Delhi,"Rohini, Delhi - DPCC","07-12-2020 07:00:00",NO2,22,105,49,NA
+317,India,Delhi,Delhi,"Rohini, Delhi - DPCC","07-12-2020 07:00:00",NH3,21,34,27,NA
+318,India,Delhi,Delhi,"Rohini, Delhi - DPCC","07-12-2020 07:00:00",SO2,3,12,8,NA
+319,India,Delhi,Delhi,"Rohini, Delhi - DPCC","07-12-2020 07:00:00",CO,40,146,75,NA
+320,India,Delhi,Delhi,"Rohini, Delhi - DPCC","07-12-2020 07:00:00",OZONE,2,81,9,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+321,India,Delhi,Delhi,"Shadipur, Delhi - CPCB","07-12-2020 07:00:00",PM2.5,171,344,290,NA
+322,India,Delhi,Delhi,"Shadipur, Delhi - CPCB","07-12-2020 07:00:00",PM10,199,454,321,NA
+323,India,Delhi,Delhi,"Shadipur, Delhi - CPCB","07-12-2020 07:00:00",NO2,66,265,135,NA
+324,India,Delhi,Delhi,"Shadipur, Delhi - CPCB","07-12-2020 07:00:00",NH3,21,30,23,NA
+325,India,Delhi,Delhi,"Shadipur, Delhi - CPCB","07-12-2020 07:00:00",SO2,5,18,12,NA
+326,India,Delhi,Delhi,"Shadipur, Delhi - CPCB","07-12-2020 07:00:00",CO,8,141,51,NA
+327,India,Delhi,Delhi,"Shadipur, Delhi - CPCB","07-12-2020 07:00:00",OZONE,1,102,8,NA
+328,India,Delhi,Delhi,"Sirifort, Delhi - CPCB","07-12-2020 07:00:00",PM2.5,226,465,380,NA
+329,India,Delhi,Delhi,"Sirifort, Delhi - CPCB","07-12-2020 07:00:00",PM10,163,448,328,NA
+330,India,Delhi,Delhi,"Sirifort, Delhi - CPCB","07-12-2020 07:00:00",NO2,34,196,72,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+331,India,Delhi,Delhi,"Sirifort, Delhi - CPCB","07-12-2020 07:00:00",NH3,5,9,8,NA
+332,India,Delhi,Delhi,"Sirifort, Delhi - CPCB","07-12-2020 07:00:00",SO2,20,43,32,NA
+333,India,Delhi,Delhi,"Sirifort, Delhi - CPCB","07-12-2020 07:00:00",CO,25,118,96,NA
+334,India,Delhi,Delhi,"Sirifort, Delhi - CPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+335,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,332,490,420,NA
+336,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC","07-12-2020 07:00:00",PM10,228,454,371,NA
+337,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC","07-12-2020 07:00:00",NO2,55,136,92,NA
+338,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC","07-12-2020 07:00:00",NH3,11,15,13,NA
+339,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC","07-12-2020 07:00:00",SO2,6,38,19,NA
+340,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC","07-12-2020 07:00:00",CO,58,127,101,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+341,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC","07-12-2020 07:00:00",OZONE,9,160,19,NA
+342,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,287,452,374,NA
+343,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC","07-12-2020 07:00:00",PM10,138,407,250,NA
+344,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC","07-12-2020 07:00:00",NO2,21,58,37,NA
+345,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC","07-12-2020 07:00:00",NH3,8,9,8,NA
+346,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC","07-12-2020 07:00:00",SO2,2,16,10,NA
+347,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC","07-12-2020 07:00:00",CO,30,106,94,NA
+348,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC","07-12-2020 07:00:00",OZONE,14,225,21,NA
+349,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,321,500,443,NA
+350,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC","07-12-2020 07:00:00",PM10,211,449,361,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+351,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC","07-12-2020 07:00:00",NO2,50,80,69,NA
+352,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC","07-12-2020 07:00:00",NH3,8,11,9,NA
+353,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC","07-12-2020 07:00:00",SO2,18,47,28,NA
+354,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC","07-12-2020 07:00:00",CO,65,138,82,NA
+355,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC","07-12-2020 07:00:00",OZONE,3,88,11,NA
+356,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC","07-12-2020 07:00:00",PM2.5,203,380,329,NA
+357,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC","07-12-2020 07:00:00",PM10,171,401,296,NA
+358,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC","07-12-2020 07:00:00",NO2,57,129,82,NA
+359,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC","07-12-2020 07:00:00",NH3,29,31,30,NA
+360,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC","07-12-2020 07:00:00",SO2,22,40,28,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+361,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC","07-12-2020 07:00:00",CO,98,122,108,NA
+362,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC","07-12-2020 07:00:00",OZONE,12,83,18,NA
+363,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB","07-12-2020 07:00:00",PM2.5,71,273,167,NA
+364,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB","07-12-2020 07:00:00",PM10,87,244,160,NA
+365,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB","07-12-2020 07:00:00",NO2,53,267,154,NA
+366,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB","07-12-2020 07:00:00",SO2,8,86,33,NA
+367,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB","07-12-2020 07:00:00",CO,17,116,79,NA
+368,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB","07-12-2020 07:00:00",OZONE,1,147,3,NA
+369,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB","07-12-2020 07:00:00",PM2.5,37,112,57,NA
+370,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB","07-12-2020 07:00:00",PM10,63,354,150,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+371,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB","07-12-2020 07:00:00",NO2,59,62,60,NA
+372,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB","07-12-2020 07:00:00",NH3,24,24,24,NA
+373,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB","07-12-2020 07:00:00",SO2,37,135,81,NA
+374,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB","07-12-2020 07:00:00",CO,44,114,96,NA
+375,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB","07-12-2020 07:00:00",OZONE,53,61,55,NA
+376,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB","07-12-2020 07:00:00",PM2.5,54,196,116,NA
+377,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB","07-12-2020 07:00:00",PM10,83,207,131,NA
+378,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB","07-12-2020 07:00:00",NO2,12,85,38,NA
+379,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB","07-12-2020 07:00:00",NH3,2,7,4,NA
+380,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB","07-12-2020 07:00:00",SO2,9,26,12,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+381,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB","07-12-2020 07:00:00",CO,40,100,61,NA
+382,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB","07-12-2020 07:00:00",OZONE,1,54,1,NA
+383,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+384,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+385,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+386,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+387,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+388,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB","07-12-2020 07:00:00",PM2.5,45,358,224,NA
+389,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB","07-12-2020 07:00:00",PM10,51,199,130,NA
+390,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB","07-12-2020 07:00:00",NO2,1,7,3,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+391,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+392,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB","07-12-2020 07:00:00",SO2,19,20,20,NA
+393,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB","07-12-2020 07:00:00",CO,22,56,43,NA
+394,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB","07-12-2020 07:00:00",OZONE,70,84,78,NA
+395,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB","07-12-2020 07:00:00",PM2.5,70,359,214,NA
+396,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB","07-12-2020 07:00:00",PM10,100,444,207,NA
+397,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB","07-12-2020 07:00:00",NO2,23,136,71,NA
+398,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB","07-12-2020 07:00:00",NH3,3,10,6,NA
+399,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB","07-12-2020 07:00:00",SO2,15,58,30,NA
+400,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB","07-12-2020 07:00:00",CO,30,124,74,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+401,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB","07-12-2020 07:00:00",OZONE,4,54,4,NA
+402,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB","07-12-2020 07:00:00",PM2.5,84,304,200,NA
+403,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB","07-12-2020 07:00:00",PM10,90,239,150,NA
+404,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB","07-12-2020 07:00:00",NO2,3,4,4,NA
+405,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB","07-12-2020 07:00:00",NH3,4,9,6,NA
+406,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB","07-12-2020 07:00:00",SO2,11,14,13,NA
+407,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB","07-12-2020 07:00:00",CO,83,119,99,NA
+408,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB","07-12-2020 07:00:00",OZONE,26,118,35,NA
+409,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB","07-12-2020 07:00:00",PM2.5,25,131,53,NA
+410,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB","07-12-2020 07:00:00",PM10,152,286,203,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+411,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB","07-12-2020 07:00:00",NO2,35,49,41,NA
+412,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB","07-12-2020 07:00:00",NH3,5,7,6,NA
+413,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB","07-12-2020 07:00:00",SO2,4,22,12,NA
+414,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB","07-12-2020 07:00:00",CO,63,144,91,NA
+415,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB","07-12-2020 07:00:00",OZONE,1,29,2,NA
+416,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB","07-12-2020 07:00:00",PM2.5,38,78,52,NA
+417,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB","07-12-2020 07:00:00",PM10,159,293,224,NA
+418,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB","07-12-2020 07:00:00",NO2,37,47,43,NA
+419,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB","07-12-2020 07:00:00",NH3,24,27,25,NA
+420,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB","07-12-2020 07:00:00",SO2,3,14,8,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+421,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB","07-12-2020 07:00:00",CO,47,65,59,NA
+422,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB","07-12-2020 07:00:00",OZONE,83,95,86,NA
+423,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+424,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB","07-12-2020 07:00:00",PM10,89,420,285,NA
+425,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB","07-12-2020 07:00:00",NO2,29,41,35,NA
+426,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB","07-12-2020 07:00:00",NH3,12,16,13,NA
+427,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB","07-12-2020 07:00:00",SO2,1,2,1,NA
+428,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB","07-12-2020 07:00:00",CO,48,74,71,NA
+429,India,Haryana,"Charkhi Dadri","Mini Secretariat, Charkhi Dadri - HSPCB","07-12-2020 07:00:00",OZONE,6,90,11,NA
+430,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+431,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+432,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+433,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+434,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+435,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB","07-12-2020 07:00:00",CO,61,114,97,NA
+436,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB","07-12-2020 07:00:00",OZONE,2,92,13,NA
+437,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB","07-12-2020 07:00:00",PM2.5,188,369,314,NA
+438,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB","07-12-2020 07:00:00",PM10,191,500,417,NA
+439,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB","07-12-2020 07:00:00",SO2,4,13,7,NA
+440,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB","07-12-2020 07:00:00",CO,46,93,81,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+441,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB","07-12-2020 07:00:00",OZONE,2,49,7,NA
+442,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+443,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+444,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB","07-12-2020 07:00:00",NO2,17,24,20,NA
+445,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB","07-12-2020 07:00:00",NH3,12,17,13,NA
+446,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB","07-12-2020 07:00:00",SO2,5,8,7,NA
+447,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB","07-12-2020 07:00:00",CO,68,116,106,NA
+448,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB","07-12-2020 07:00:00",OZONE,1,79,2,NA
+449,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB","07-12-2020 07:00:00",PM2.5,270,359,328,NA
+450,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB","07-12-2020 07:00:00",PM10,252,466,364,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+451,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB","07-12-2020 07:00:00",NO2,16,17,16,NA
+452,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB","07-12-2020 07:00:00",NH3,5,6,5,NA
+453,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB","07-12-2020 07:00:00",SO2,3,14,6,NA
+454,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB","07-12-2020 07:00:00",CO,86,120,107,NA
+455,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB","07-12-2020 07:00:00",OZONE,2,118,5,NA
+456,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB","07-12-2020 07:00:00",PM2.5,294,486,418,NA
+457,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB","07-12-2020 07:00:00",NO2,74,244,141,NA
+458,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB","07-12-2020 07:00:00",SO2,13,34,22,NA
+459,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB","07-12-2020 07:00:00",OZONE,20,65,23,NA
+460,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB","07-12-2020 07:00:00",PM2.5,343,435,403,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+461,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB","07-12-2020 07:00:00",PM10,248,431,383,NA
+462,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB","07-12-2020 07:00:00",NO2,41,52,46,NA
+463,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB","07-12-2020 07:00:00",NH3,8,8,8,NA
+464,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB","07-12-2020 07:00:00",SO2,1,18,8,NA
+465,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB","07-12-2020 07:00:00",CO,64,102,69,NA
+466,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB","07-12-2020 07:00:00",OZONE,5,57,17,NA
+467,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD","07-12-2020 07:00:00",PM2.5,175,458,362,NA
+468,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD","07-12-2020 07:00:00",PM10,130,421,277,NA
+469,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD","07-12-2020 07:00:00",NO2,15,70,35,NA
+470,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD","07-12-2020 07:00:00",CO,96,124,118,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+471,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD","07-12-2020 07:00:00",OZONE,31,131,49,NA
+472,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB","07-12-2020 07:00:00",PM2.5,139,376,311,NA
+473,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB","07-12-2020 07:00:00",PM10,131,453,214,NA
+474,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+475,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+476,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB","07-12-2020 07:00:00",SO2,2,3,2,NA
+477,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB","07-12-2020 07:00:00",CO,52,100,91,NA
+478,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB","07-12-2020 07:00:00",OZONE,1,89,13,NA
+479,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+480,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+481,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+482,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+483,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+484,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+485,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+486,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB","07-12-2020 07:00:00",PM2.5,301,415,365,NA
+487,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB","07-12-2020 07:00:00",NO2,4,5,5,NA
+488,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB","07-12-2020 07:00:00",SO2,2,22,8,NA
+489,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB","07-12-2020 07:00:00",CO,1,114,70,NA
+490,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB","07-12-2020 07:00:00",OZONE,2,96,9,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+491,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB","07-12-2020 07:00:00",PM2.5,377,421,395,NA
+492,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB","07-12-2020 07:00:00",PM10,216,301,259,NA
+493,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB","07-12-2020 07:00:00",NO2,38,95,54,NA
+494,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB","07-12-2020 07:00:00",NH3,9,14,11,NA
+495,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB","07-12-2020 07:00:00",SO2,9,27,19,NA
+496,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB","07-12-2020 07:00:00",CO,72,105,103,NA
+497,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB","07-12-2020 07:00:00",OZONE,45,51,47,NA
+498,India,Haryana,Jind,"Police Lines, Jind - HSPCB","07-12-2020 07:00:00",PM2.5,353,428,399,NA
+499,India,Haryana,Jind,"Police Lines, Jind - HSPCB","07-12-2020 07:00:00",PM10,168,378,279,NA
+500,India,Haryana,Jind,"Police Lines, Jind - HSPCB","07-12-2020 07:00:00",NO2,47,62,52,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+501,India,Haryana,Jind,"Police Lines, Jind - HSPCB","07-12-2020 07:00:00",NH3,21,31,27,NA
+502,India,Haryana,Jind,"Police Lines, Jind - HSPCB","07-12-2020 07:00:00",SO2,9,73,29,NA
+503,India,Haryana,Jind,"Police Lines, Jind - HSPCB","07-12-2020 07:00:00",CO,25,31,28,NA
+504,India,Haryana,Jind,"Police Lines, Jind - HSPCB","07-12-2020 07:00:00",OZONE,9,47,16,NA
+505,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB","07-12-2020 07:00:00",PM2.5,304,349,318,NA
+506,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB","07-12-2020 07:00:00",PM10,163,329,224,NA
+507,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB","07-12-2020 07:00:00",NO2,30,40,35,NA
+508,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB","07-12-2020 07:00:00",NH3,11,22,16,NA
+509,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB","07-12-2020 07:00:00",SO2,6,13,9,NA
+510,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB","07-12-2020 07:00:00",CO,64,85,72,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+511,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB","07-12-2020 07:00:00",OZONE,26,30,28,NA
+512,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB","07-12-2020 07:00:00",PM2.5,99,266,156,NA
+513,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB","07-12-2020 07:00:00",PM10,109,161,130,NA
+514,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB","07-12-2020 07:00:00",NO2,26,70,38,NA
+515,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB","07-12-2020 07:00:00",NH3,5,23,17,NA
+516,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB","07-12-2020 07:00:00",SO2,7,32,17,NA
+517,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB","07-12-2020 07:00:00",CO,12,116,19,NA
+518,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB","07-12-2020 07:00:00",OZONE,2,66,22,NA
+519,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB","07-12-2020 07:00:00",PM2.5,248,336,306,NA
+520,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB","07-12-2020 07:00:00",PM10,141,274,189,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+521,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB","07-12-2020 07:00:00",NO2,32,125,58,NA
+522,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB","07-12-2020 07:00:00",NH3,6,11,8,NA
+523,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB","07-12-2020 07:00:00",SO2,7,33,17,NA
+524,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB","07-12-2020 07:00:00",CO,38,100,53,NA
+525,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB","07-12-2020 07:00:00",OZONE,20,88,36,NA
+526,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB","07-12-2020 07:00:00",PM2.5,158,332,258,NA
+527,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB","07-12-2020 07:00:00",PM10,112,219,160,NA
+528,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB","07-12-2020 07:00:00",NO2,43,92,64,NA
+529,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB","07-12-2020 07:00:00",NH3,36,62,47,NA
+530,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB","07-12-2020 07:00:00",SO2,3,42,19,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+531,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB","07-12-2020 07:00:00",CO,108,118,109,NA
+532,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB","07-12-2020 07:00:00",OZONE,3,3,3,NA
+533,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB","07-12-2020 07:00:00",PM2.5,206,349,309,NA
+534,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB","07-12-2020 07:00:00",PM10,143,368,206,NA
+535,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB","07-12-2020 07:00:00",NO2,12,60,32,NA
+536,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB","07-12-2020 07:00:00",NH3,3,15,9,NA
+537,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB","07-12-2020 07:00:00",SO2,2,19,6,NA
+538,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB","07-12-2020 07:00:00",CO,23,104,54,NA
+539,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB","07-12-2020 07:00:00",OZONE,2,93,12,NA
+540,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB","07-12-2020 07:00:00",PM2.5,158,330,269,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+541,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB","07-12-2020 07:00:00",PM10,169,247,210,NA
+542,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB","07-12-2020 07:00:00",NO2,20,28,23,NA
+543,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB","07-12-2020 07:00:00",NH3,7,7,7,NA
+544,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB","07-12-2020 07:00:00",SO2,4,4,4,NA
+545,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB","07-12-2020 07:00:00",CO,27,53,51,NA
+546,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB","07-12-2020 07:00:00",OZONE,23,37,28,NA
+547,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+548,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+549,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+550,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+551,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+552,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB","07-12-2020 07:00:00",CO,106,128,121,NA
+553,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB","07-12-2020 07:00:00",OZONE,3,21,8,NA
+554,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ","07-12-2020 07:00:00",PM2.5,32,291,140,NA
+555,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ","07-12-2020 07:00:00",NO2,32,34,33,NA
+556,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ","07-12-2020 07:00:00",SO2,10,12,12,NA
+557,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ","07-12-2020 07:00:00",CO,1,9,3,NA
+558,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ","07-12-2020 07:00:00",OZONE,14,23,17,NA
+559,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB","07-12-2020 07:00:00",PM2.5,302,352,329,NA
+560,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+561,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB","07-12-2020 07:00:00",NO2,64,314,154,NA
+562,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB","07-12-2020 07:00:00",NH3,2,15,11,NA
+563,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB","07-12-2020 07:00:00",SO2,8,36,17,NA
+564,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB","07-12-2020 07:00:00",CO,85,90,87,NA
+565,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB","07-12-2020 07:00:00",OZONE,3,23,4,NA
+566,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB","07-12-2020 07:00:00",PM2.5,288,492,411,NA
+567,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB","07-12-2020 07:00:00",NO2,69,127,90,NA
+568,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB","07-12-2020 07:00:00",SO2,2,14,8,NA
+569,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB","07-12-2020 07:00:00",CO,1,72,21,NA
+570,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB","07-12-2020 07:00:00",OZONE,23,93,29,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+571,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB","07-12-2020 07:00:00",PM2.5,95,306,230,NA
+572,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB","07-12-2020 07:00:00",PM10,105,208,175,NA
+573,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB","07-12-2020 07:00:00",NO2,117,143,130,NA
+574,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB","07-12-2020 07:00:00",NH3,23,28,26,NA
+575,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB","07-12-2020 07:00:00",SO2,40,80,66,NA
+576,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB","07-12-2020 07:00:00",CO,69,84,76,NA
+577,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB","07-12-2020 07:00:00",OZONE,4,42,9,NA
+578,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB","07-12-2020 07:00:00",PM2.5,164,350,314,NA
+579,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB","07-12-2020 07:00:00",PM10,131,402,288,NA
+580,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB","07-12-2020 07:00:00",NO2,50,78,66,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+581,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB","07-12-2020 07:00:00",NH3,18,45,35,NA
+582,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB","07-12-2020 07:00:00",SO2,28,32,30,NA
+583,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB","07-12-2020 07:00:00",CO,54,68,61,NA
+584,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB","07-12-2020 07:00:00",OZONE,29,32,30,NA
+585,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+586,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+587,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+588,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+589,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+590,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+591,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+592,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+593,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+594,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+595,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+596,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB","07-12-2020 07:00:00",CO,9,66,28,NA
+597,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB","07-12-2020 07:00:00",OZONE,12,64,33,NA
+598,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB","07-12-2020 07:00:00",PM2.5,25,40,34,NA
+599,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB","07-12-2020 07:00:00",NO2,10,15,13,NA
+600,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB","07-12-2020 07:00:00",SO2,9,9,9,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+601,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB","07-12-2020 07:00:00",CO,13,97,33,NA
+602,India,Karnataka,Bengaluru,"BTM Layout, Bengaluru - CPCB","07-12-2020 07:00:00",OZONE,11,44,17,NA
+603,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB","07-12-2020 07:00:00",PM2.5,20,46,28,NA
+604,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB","07-12-2020 07:00:00",NO2,9,12,11,NA
+605,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB","07-12-2020 07:00:00",SO2,1,3,2,NA
+606,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB","07-12-2020 07:00:00",CO,19,38,24,NA
+607,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB","07-12-2020 07:00:00",OZONE,5,11,7,NA
+608,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB","07-12-2020 07:00:00",PM2.5,30,82,48,NA
+609,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB","07-12-2020 07:00:00",PM10,24,100,56,NA
+610,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB","07-12-2020 07:00:00",NO2,8,39,28,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+611,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB","07-12-2020 07:00:00",NH3,1,4,3,NA
+612,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB","07-12-2020 07:00:00",SO2,7,17,14,NA
+613,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB","07-12-2020 07:00:00",CO,6,63,20,NA
+614,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB","07-12-2020 07:00:00",OZONE,2,15,5,NA
+615,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB","07-12-2020 07:00:00",PM10,25,87,33,NA
+616,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB","07-12-2020 07:00:00",NO2,45,55,49,NA
+617,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB","07-12-2020 07:00:00",SO2,7,14,10,NA
+618,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB","07-12-2020 07:00:00",PM2.5,16,68,35,NA
+619,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB","07-12-2020 07:00:00",PM10,19,76,40,NA
+620,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB","07-12-2020 07:00:00",NO2,21,54,37,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+621,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB","07-12-2020 07:00:00",NH3,1,2,2,NA
+622,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB","07-12-2020 07:00:00",SO2,15,30,23,NA
+623,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB","07-12-2020 07:00:00",CO,1,16,4,NA
+624,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB","07-12-2020 07:00:00",OZONE,20,29,21,NA
+625,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB","07-12-2020 07:00:00",PM2.5,2,78,32,NA
+626,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB","07-12-2020 07:00:00",PM10,8,83,44,NA
+627,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB","07-12-2020 07:00:00",NO2,13,19,16,NA
+628,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB","07-12-2020 07:00:00",NH3,1,2,2,NA
+629,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB","07-12-2020 07:00:00",SO2,2,15,6,NA
+630,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB","07-12-2020 07:00:00",CO,3,49,13,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+631,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB","07-12-2020 07:00:00",OZONE,25,38,26,NA
+632,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB","07-12-2020 07:00:00",PM2.5,19,51,32,NA
+633,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB","07-12-2020 07:00:00",NO2,56,66,60,NA
+634,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB","07-12-2020 07:00:00",NH3,6,8,7,NA
+635,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB","07-12-2020 07:00:00",SO2,1,16,4,NA
+636,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB","07-12-2020 07:00:00",CO,17,101,39,NA
+637,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+638,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB","07-12-2020 07:00:00",PM10,26,37,29,NA
+639,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB","07-12-2020 07:00:00",NO2,11,16,14,NA
+640,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB","07-12-2020 07:00:00",SO2,1,7,3,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+641,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB","07-12-2020 07:00:00",CO,18,38,25,NA
+642,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB","07-12-2020 07:00:00",PM2.5,8,50,26,NA
+643,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB","07-12-2020 07:00:00",PM10,19,65,38,NA
+644,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB","07-12-2020 07:00:00",NO2,18,59,37,NA
+645,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB","07-12-2020 07:00:00",NH3,3,4,4,NA
+646,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB","07-12-2020 07:00:00",SO2,1,7,4,NA
+647,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB","07-12-2020 07:00:00",CO,13,48,20,NA
+648,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB","07-12-2020 07:00:00",OZONE,22,26,22,NA
+649,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB","07-12-2020 07:00:00",PM2.5,7,65,30,NA
+650,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB","07-12-2020 07:00:00",PM10,10,61,32,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+651,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB","07-12-2020 07:00:00",NO2,18,30,27,NA
+652,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB","07-12-2020 07:00:00",NH3,2,3,2,NA
+653,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB","07-12-2020 07:00:00",SO2,13,21,16,NA
+654,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB","07-12-2020 07:00:00",CO,32,39,35,NA
+655,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB","07-12-2020 07:00:00",OZONE,14,44,20,NA
+656,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB","07-12-2020 07:00:00",PM2.5,30,61,43,NA
+657,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB","07-12-2020 07:00:00",PM10,31,58,44,NA
+658,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB","07-12-2020 07:00:00",NO2,14,20,16,NA
+659,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB","07-12-2020 07:00:00",NH3,3,4,4,NA
+660,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB","07-12-2020 07:00:00",SO2,3,4,3,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+661,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB","07-12-2020 07:00:00",CO,20,28,24,NA
+662,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB","07-12-2020 07:00:00",OZONE,56,110,68,NA
+663,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB","07-12-2020 07:00:00",PM2.5,28,90,62,NA
+664,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB","07-12-2020 07:00:00",PM10,36,139,90,NA
+665,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB","07-12-2020 07:00:00",NO2,20,75,33,NA
+666,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+667,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB","07-12-2020 07:00:00",SO2,1,4,2,NA
+668,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB","07-12-2020 07:00:00",CO,30,57,34,NA
+669,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB","07-12-2020 07:00:00",OZONE,7,19,11,NA
+670,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB","07-12-2020 07:00:00",PM10,40,174,93,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+671,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB","07-12-2020 07:00:00",NO2,23,170,64,NA
+672,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB","07-12-2020 07:00:00",NH3,1,3,2,NA
+673,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB","07-12-2020 07:00:00",SO2,3,8,4,NA
+674,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB","07-12-2020 07:00:00",CO,37,102,50,NA
+675,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB","07-12-2020 07:00:00",OZONE,2,54,27,NA
+676,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB","07-12-2020 07:00:00",PM2.5,8,38,24,NA
+677,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB","07-12-2020 07:00:00",PM10,7,44,27,NA
+678,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB","07-12-2020 07:00:00",NO2,3,8,5,NA
+679,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB","07-12-2020 07:00:00",NH3,1,1,1,NA
+680,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB","07-12-2020 07:00:00",SO2,7,19,15,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+681,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB","07-12-2020 07:00:00",CO,15,25,19,NA
+682,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB","07-12-2020 07:00:00",OZONE,28,48,33,NA
+683,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB","07-12-2020 07:00:00",PM2.5,6,52,24,NA
+684,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB","07-12-2020 07:00:00",PM10,18,49,29,NA
+685,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB","07-12-2020 07:00:00",NO2,6,43,29,NA
+686,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+687,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB","07-12-2020 07:00:00",SO2,21,30,25,NA
+688,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB","07-12-2020 07:00:00",CO,16,22,18,NA
+689,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB","07-12-2020 07:00:00",OZONE,3,42,4,NA
+690,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB","07-12-2020 07:00:00",PM2.5,5,103,37,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+691,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB","07-12-2020 07:00:00",PM10,17,114,52,NA
+692,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB","07-12-2020 07:00:00",NO2,23,30,26,NA
+693,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB","07-12-2020 07:00:00",NH3,7,8,8,NA
+694,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB","07-12-2020 07:00:00",SO2,4,4,4,NA
+695,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB","07-12-2020 07:00:00",CO,15,39,29,NA
+696,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB","07-12-2020 07:00:00",OZONE,45,86,56,NA
+697,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB","07-12-2020 07:00:00",PM2.5,46,128,69,NA
+698,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB","07-12-2020 07:00:00",PM10,44,94,66,NA
+699,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB","07-12-2020 07:00:00",NO2,2,4,4,NA
+700,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB","07-12-2020 07:00:00",NH3,1,1,1,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+701,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB","07-12-2020 07:00:00",SO2,1,11,6,NA
+702,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB","07-12-2020 07:00:00",CO,45,102,59,NA
+703,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB","07-12-2020 07:00:00",OZONE,9,22,14,NA
+704,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+705,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+706,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB","07-12-2020 07:00:00",NO2,8,65,26,NA
+707,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+708,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB","07-12-2020 07:00:00",SO2,5,11,8,NA
+709,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB","07-12-2020 07:00:00",CO,6,27,15,NA
+710,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB","07-12-2020 07:00:00",OZONE,42,94,58,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+711,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+712,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+713,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB","07-12-2020 07:00:00",NO2,11,11,11,NA
+714,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB","07-12-2020 07:00:00",NH3,2,2,2,NA
+715,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB","07-12-2020 07:00:00",SO2,1,8,4,NA
+716,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB","07-12-2020 07:00:00",CO,29,42,36,NA
+717,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB","07-12-2020 07:00:00",OZONE,4,16,8,NA
+718,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB","07-12-2020 07:00:00",PM2.5,5,63,17,NA
+719,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB","07-12-2020 07:00:00",PM10,8,51,21,NA
+720,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB","07-12-2020 07:00:00",NO2,6,6,6,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+721,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+722,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB","07-12-2020 07:00:00",SO2,7,8,8,NA
+723,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB","07-12-2020 07:00:00",CO,60,77,66,NA
+724,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB","07-12-2020 07:00:00",PM2.5,57,59,58,NA
+725,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB","07-12-2020 07:00:00",PM10,59,61,60,NA
+726,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB","07-12-2020 07:00:00",NO2,16,17,16,NA
+727,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB","07-12-2020 07:00:00",NH3,3,3,3,NA
+728,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB","07-12-2020 07:00:00",SO2,2,6,4,NA
+729,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB","07-12-2020 07:00:00",CO,41,66,51,NA
+730,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB","07-12-2020 07:00:00",OZONE,9,10,9,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+731,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB","07-12-2020 07:00:00",PM10,1,49,20,NA
+732,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB","07-12-2020 07:00:00",NO2,2,2,2,NA
+733,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB","07-12-2020 07:00:00",SO2,2,17,10,NA
+734,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB","07-12-2020 07:00:00",CO,12,44,15,NA
+735,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB","07-12-2020 07:00:00",OZONE,1,19,4,NA
+736,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB","07-12-2020 07:00:00",PM10,22,58,38,NA
+737,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB","07-12-2020 07:00:00",NO2,10,32,19,NA
+738,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB","07-12-2020 07:00:00",NH3,1,1,1,NA
+739,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB","07-12-2020 07:00:00",SO2,2,2,2,NA
+740,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB","07-12-2020 07:00:00",CO,3,56,21,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+741,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB","07-12-2020 07:00:00",OZONE,2,9,3,NA
+742,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",PM2.5,19,41,30,NA
+743,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",PM10,25,49,38,NA
+744,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",NO2,9,26,16,NA
+745,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",NH3,1,5,1,NA
+746,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",SO2,2,6,5,NA
+747,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",CO,15,52,15,NA
+748,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",OZONE,5,25,14,NA
+749,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",PM2.5,2,26,11,NA
+750,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",PM10,5,41,17,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+751,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",NO2,5,59,16,NA
+752,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",NH3,2,3,2,NA
+753,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",SO2,8,12,10,NA
+754,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",CO,16,49,37,NA
+755,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB","07-12-2020 07:00:00",OZONE,13,28,19,NA
+756,India,Kerala,Thrissur,"Corporation Ground, Thrissur- Kerala PCB","07-12-2020 07:00:00",PM2.5,10,59,27,NA
+757,India,Kerala,Thrissur,"Corporation Ground, Thrissur- Kerala PCB","07-12-2020 07:00:00",PM10,26,71,41,NA
+758,India,Kerala,Thrissur,"Corporation Ground, Thrissur- Kerala PCB","07-12-2020 07:00:00",NO2,36,36,36,NA
+759,India,Kerala,Thrissur,"Corporation Ground, Thrissur- Kerala PCB","07-12-2020 07:00:00",NH3,5,5,5,NA
+760,India,Kerala,Thrissur,"Corporation Ground, Thrissur- Kerala PCB","07-12-2020 07:00:00",SO2,5,13,8,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+761,India,Kerala,Thrissur,"Corporation Ground, Thrissur- Kerala PCB","07-12-2020 07:00:00",CO,33,59,36,NA
+762,India,Kerala,Thrissur,"Corporation Ground, Thrissur- Kerala PCB","07-12-2020 07:00:00",OZONE,23,74,27,NA
+763,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB","07-12-2020 07:00:00",PM2.5,35,220,102,NA
+764,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB","07-12-2020 07:00:00",PM10,78,323,143,NA
+765,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB","07-12-2020 07:00:00",NO2,29,129,68,NA
+766,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB","07-12-2020 07:00:00",NH3,3,6,4,NA
+767,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB","07-12-2020 07:00:00",SO2,14,92,34,NA
+768,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB","07-12-2020 07:00:00",CO,57,129,83,NA
+769,India,"Madhya Pradesh",Bhopal,"T T Nagar, Bhopal - MPPCB","07-12-2020 07:00:00",OZONE,3,160,26,NA
+770,India,"Madhya Pradesh",Damoh,"Shrivastav Colony, Damoh - MPPCB","07-12-2020 07:00:00",PM2.5,28,346,149,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+771,India,"Madhya Pradesh",Damoh,"Shrivastav Colony, Damoh - MPPCB","07-12-2020 07:00:00",PM10,33,404,150,NA
+772,India,"Madhya Pradesh",Damoh,"Shrivastav Colony, Damoh - MPPCB","07-12-2020 07:00:00",NO2,18,19,18,NA
+773,India,"Madhya Pradesh",Damoh,"Shrivastav Colony, Damoh - MPPCB","07-12-2020 07:00:00",CO,1,2,1,NA
+774,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB","07-12-2020 07:00:00",PM2.5,12,78,33,NA
+775,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB","07-12-2020 07:00:00",PM10,29,117,59,NA
+776,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB","07-12-2020 07:00:00",NO2,12,92,36,NA
+777,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB","07-12-2020 07:00:00",NH3,3,5,4,NA
+778,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB","07-12-2020 07:00:00",SO2,1,13,7,NA
+779,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB","07-12-2020 07:00:00",CO,11,55,14,NA
+780,India,"Madhya Pradesh",Dewas,"Bhopal Chauraha, Dewas - MPPCB","07-12-2020 07:00:00",OZONE,26,166,131,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+781,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB","07-12-2020 07:00:00",PM2.5,48,375,249,NA
+782,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB","07-12-2020 07:00:00",PM10,80,295,168,NA
+783,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB","07-12-2020 07:00:00",NO2,23,139,68,NA
+784,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB","07-12-2020 07:00:00",NH3,5,10,7,NA
+785,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB","07-12-2020 07:00:00",SO2,32,60,40,NA
+786,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB","07-12-2020 07:00:00",CO,16,127,57,NA
+787,India,"Madhya Pradesh",Gwalior,"City Center, Gwalior - MPPCB","07-12-2020 07:00:00",OZONE,10,127,11,NA
+788,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB","07-12-2020 07:00:00",PM2.5,14,334,174,NA
+789,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB","07-12-2020 07:00:00",PM10,40,303,154,NA
+790,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB","07-12-2020 07:00:00",NO2,26,131,79,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+791,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB","07-12-2020 07:00:00",NH3,2,7,5,NA
+792,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB","07-12-2020 07:00:00",SO2,5,23,13,NA
+793,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB","07-12-2020 07:00:00",CO,23,127,92,NA
+794,India,"Madhya Pradesh",Indore,"Chhoti Gwaltoli, Indore - MPPCB","07-12-2020 07:00:00",OZONE,11,140,15,NA
+795,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB","07-12-2020 07:00:00",PM2.5,41,332,116,NA
+796,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB","07-12-2020 07:00:00",PM10,67,446,151,NA
+797,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB","07-12-2020 07:00:00",NO2,22,139,55,NA
+798,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB","07-12-2020 07:00:00",NH3,5,9,7,NA
+799,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB","07-12-2020 07:00:00",SO2,12,21,15,NA
+800,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB","07-12-2020 07:00:00",CO,17,163,43,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+801,India,"Madhya Pradesh",Jabalpur,"Marhatal, Jabalpur - MPPCB","07-12-2020 07:00:00",OZONE,9,110,25,NA
+802,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB","07-12-2020 07:00:00",PM2.5,22,361,240,NA
+803,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB","07-12-2020 07:00:00",PM10,46,428,230,NA
+804,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB","07-12-2020 07:00:00",NO2,31,67,57,NA
+805,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB","07-12-2020 07:00:00",NH3,5,10,8,NA
+806,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB","07-12-2020 07:00:00",SO2,10,29,16,NA
+807,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB","07-12-2020 07:00:00",CO,23,110,86,NA
+808,India,"Madhya Pradesh",Katni,"Gole Bazar, Katni - MPPCB","07-12-2020 07:00:00",OZONE,3,14,14,NA
+809,India,"Madhya Pradesh",Maihar,"Sahilara, Maihar - KJS Cements","07-12-2020 07:00:00",PM2.5,11,50,24,NA
+810,India,"Madhya Pradesh",Maihar,"Sahilara, Maihar - KJS Cements","07-12-2020 07:00:00",PM10,31,104,54,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+811,India,"Madhya Pradesh",Maihar,"Sahilara, Maihar - KJS Cements","07-12-2020 07:00:00",NO2,10,21,15,NA
+812,India,"Madhya Pradesh",Maihar,"Sahilara, Maihar - KJS Cements","07-12-2020 07:00:00",SO2,13,15,14,NA
+813,India,"Madhya Pradesh",Maihar,"Sahilara, Maihar - KJS Cements","07-12-2020 07:00:00",CO,14,16,15,NA
+814,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB","07-12-2020 07:00:00",PM2.5,38,390,194,NA
+815,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB","07-12-2020 07:00:00",PM10,72,460,260,NA
+816,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB","07-12-2020 07:00:00",NO2,22,154,83,NA
+817,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB","07-12-2020 07:00:00",NH3,2,7,4,NA
+818,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB","07-12-2020 07:00:00",SO2,7,123,48,NA
+819,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB","07-12-2020 07:00:00",CO,10,99,50,NA
+820,India,"Madhya Pradesh",Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB","07-12-2020 07:00:00",OZONE,3,84,5,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+821,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB","07-12-2020 07:00:00",PM2.5,20,221,53,NA
+822,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB","07-12-2020 07:00:00",PM10,30,116,71,NA
+823,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB","07-12-2020 07:00:00",NO2,4,29,15,NA
+824,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB","07-12-2020 07:00:00",NH3,2,7,4,NA
+825,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB","07-12-2020 07:00:00",SO2,20,107,41,NA
+826,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB","07-12-2020 07:00:00",CO,25,60,44,NA
+827,India,"Madhya Pradesh",Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB","07-12-2020 07:00:00",OZONE,64,133,85,NA
+828,India,"Madhya Pradesh",Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab","07-12-2020 07:00:00",PM2.5,10,218,112,NA
+829,India,"Madhya Pradesh",Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab","07-12-2020 07:00:00",PM10,28,315,151,NA
+830,India,"Madhya Pradesh",Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab","07-12-2020 07:00:00",NO2,44,146,96,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+831,India,"Madhya Pradesh",Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab","07-12-2020 07:00:00",SO2,8,12,9,NA
+832,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+833,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+834,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB","07-12-2020 07:00:00",NO2,19,64,40,NA
+835,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB","07-12-2020 07:00:00",SO2,6,6,6,NA
+836,India,"Madhya Pradesh",Sagar,"Deen Dayal Nagar, Sagar - MPPCB","07-12-2020 07:00:00",CO,6,61,28,NA
+837,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - Birla Cement","07-12-2020 07:00:00",PM2.5,26,35,29,NA
+838,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - Birla Cement","07-12-2020 07:00:00",PM10,73,206,97,NA
+839,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - Birla Cement","07-12-2020 07:00:00",SO2,11,11,11,NA
+840,India,"Madhya Pradesh",Satna,"Bandhavgar Colony, Satna - Birla Cement","07-12-2020 07:00:00",CO,7,10,8,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+841,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB","07-12-2020 07:00:00",PM2.5,55,385,249,NA
+842,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB","07-12-2020 07:00:00",PM10,104,443,257,NA
+843,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB","07-12-2020 07:00:00",NO2,19,109,61,NA
+844,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB","07-12-2020 07:00:00",NH3,1,2,2,NA
+845,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB","07-12-2020 07:00:00",SO2,11,110,53,NA
+846,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB","07-12-2020 07:00:00",CO,28,93,75,NA
+847,India,"Madhya Pradesh",Singrauli,"Vindhyachal STPS, Singrauli - MPPCB","07-12-2020 07:00:00",OZONE,13,88,13,NA
+848,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB","07-12-2020 07:00:00",PM2.5,37,367,183,NA
+849,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB","07-12-2020 07:00:00",PM10,78,403,165,NA
+850,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB","07-12-2020 07:00:00",NO2,17,128,60,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+851,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB","07-12-2020 07:00:00",NH3,4,14,9,NA
+852,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB","07-12-2020 07:00:00",SO2,6,38,16,NA
+853,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB","07-12-2020 07:00:00",CO,21,130,71,NA
+854,India,"Madhya Pradesh",Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB","07-12-2020 07:00:00",OZONE,10,231,15,NA
+855,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB","07-12-2020 07:00:00",PM2.5,45,166,81,NA
+856,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB","07-12-2020 07:00:00",PM10,66,121,92,NA
+857,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB","07-12-2020 07:00:00",NO2,35,42,38,NA
+858,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB","07-12-2020 07:00:00",NH3,3,4,3,NA
+859,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB","07-12-2020 07:00:00",SO2,18,20,19,NA
+860,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB","07-12-2020 07:00:00",CO,6,115,43,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+861,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB","07-12-2020 07:00:00",OZONE,2,94,12,NA
+862,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB","07-12-2020 07:00:00",PM2.5,15,60,32,NA
+863,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB","07-12-2020 07:00:00",PM10,53,192,117,NA
+864,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB","07-12-2020 07:00:00",NO2,12,15,14,NA
+865,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB","07-12-2020 07:00:00",NH3,8,8,8,NA
+866,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB","07-12-2020 07:00:00",SO2,18,23,22,NA
+867,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB","07-12-2020 07:00:00",CO,7,37,29,NA
+868,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB","07-12-2020 07:00:00",OZONE,23,32,25,NA
+869,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB","07-12-2020 07:00:00",PM2.5,74,303,135,NA
+870,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB","07-12-2020 07:00:00",PM10,99,224,136,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+871,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB","07-12-2020 07:00:00",NO2,15,66,38,NA
+872,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB","07-12-2020 07:00:00",NH3,1,5,2,NA
+873,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB","07-12-2020 07:00:00",SO2,2,119,41,NA
+874,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB","07-12-2020 07:00:00",CO,21,78,40,NA
+875,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB","07-12-2020 07:00:00",OZONE,4,75,8,NA
+876,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB","07-12-2020 07:00:00",PM2.5,47,362,170,NA
+877,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB","07-12-2020 07:00:00",PM10,69,406,162,NA
+878,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB","07-12-2020 07:00:00",NO2,2,18,8,NA
+879,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+880,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB","07-12-2020 07:00:00",SO2,4,11,7,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+881,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB","07-12-2020 07:00:00",CO,24,138,107,NA
+882,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB","07-12-2020 07:00:00",OZONE,4,10,6,NA
+883,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM","07-12-2020 07:00:00",PM2.5,36,59,44,NA
+884,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM","07-12-2020 07:00:00",NO2,42,95,63,NA
+885,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM","07-12-2020 07:00:00",NH3,16,60,26,NA
+886,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM","07-12-2020 07:00:00",SO2,8,67,24,NA
+887,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM","07-12-2020 07:00:00",CO,21,122,55,NA
+888,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM","07-12-2020 07:00:00",OZONE,4,68,8,NA
+889,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,4,38,20,NA
+890,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB","07-12-2020 07:00:00",NO2,1,1,1,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+891,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB","07-12-2020 07:00:00",SO2,18,20,19,NA
+892,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB","07-12-2020 07:00:00",CO,70,101,94,NA
+893,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB","07-12-2020 07:00:00",OZONE,11,11,11,NA
+894,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM","07-12-2020 07:00:00",PM2.5,16,201,54,NA
+895,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM","07-12-2020 07:00:00",PM10,86,151,111,NA
+896,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM","07-12-2020 07:00:00",NO2,3,12,6,NA
+897,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+898,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM","07-12-2020 07:00:00",CO,31,95,60,NA
+899,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM","07-12-2020 07:00:00",OZONE,2,30,22,NA
+900,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,57,105,81,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+901,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB","07-12-2020 07:00:00",PM10,39,114,64,NA
+902,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB","07-12-2020 07:00:00",NO2,1,5,3,NA
+903,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB","07-12-2020 07:00:00",NH3,5,7,6,NA
+904,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB","07-12-2020 07:00:00",SO2,3,6,5,NA
+905,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB","07-12-2020 07:00:00",CO,16,22,18,NA
+906,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB","07-12-2020 07:00:00",OZONE,16,18,17,NA
+907,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,38,143,71,NA
+908,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB","07-12-2020 07:00:00",PM10,91,227,141,NA
+909,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB","07-12-2020 07:00:00",NO2,28,90,50,NA
+910,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB","07-12-2020 07:00:00",NH3,6,7,6,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+911,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB","07-12-2020 07:00:00",SO2,21,26,24,NA
+912,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB","07-12-2020 07:00:00",CO,34,94,84,NA
+913,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB","07-12-2020 07:00:00",OZONE,4,199,9,NA
+914,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+915,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+916,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+917,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+918,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+919,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+920,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+921,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM","07-12-2020 07:00:00",PM2.5,61,321,188,NA
+922,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM","07-12-2020 07:00:00",PM10,68,195,131,NA
+923,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM","07-12-2020 07:00:00",NO2,13,121,52,NA
+924,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM","07-12-2020 07:00:00",NH3,1,4,2,NA
+925,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM","07-12-2020 07:00:00",CO,2,96,46,NA
+926,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM","07-12-2020 07:00:00",OZONE,23,174,38,NA
+927,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,65,315,154,NA
+928,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB","07-12-2020 07:00:00",PM10,96,289,160,NA
+929,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB","07-12-2020 07:00:00",NO2,27,178,102,NA
+930,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB","07-12-2020 07:00:00",NH3,2,4,3,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+931,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB","07-12-2020 07:00:00",SO2,1,21,6,NA
+932,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB","07-12-2020 07:00:00",CO,14,110,68,NA
+933,India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB","07-12-2020 07:00:00",OZONE,6,202,9,NA
+934,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM","07-12-2020 07:00:00",PM2.5,39,332,200,NA
+935,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM","07-12-2020 07:00:00",PM10,70,163,116,NA
+936,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+937,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+938,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM","07-12-2020 07:00:00",SO2,3,10,6,NA
+939,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM","07-12-2020 07:00:00",CO,1,102,55,NA
+940,India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM","07-12-2020 07:00:00",OZONE,1,74,4,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+941,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM","07-12-2020 07:00:00",PM2.5,40,303,196,NA
+942,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM","07-12-2020 07:00:00",PM10,33,174,115,NA
+943,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM","07-12-2020 07:00:00",NO2,10,37,20,NA
+944,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM","07-12-2020 07:00:00",NH3,9,13,11,NA
+945,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM","07-12-2020 07:00:00",SO2,3,11,6,NA
+946,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM","07-12-2020 07:00:00",CO,1,31,16,NA
+947,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM","07-12-2020 07:00:00",OZONE,14,97,29,NA
+948,India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM","07-12-2020 07:00:00",PM2.5,56,259,103,NA
+949,India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM","07-12-2020 07:00:00",PM10,104,201,140,NA
+950,India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM","07-12-2020 07:00:00",NO2,11,190,87,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+951,India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM","07-12-2020 07:00:00",NH3,3,5,3,NA
+952,India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM","07-12-2020 07:00:00",SO2,2,12,8,NA
+953,India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM","07-12-2020 07:00:00",CO,69,98,90,NA
+954,India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM","07-12-2020 07:00:00",OZONE,1,122,15,NA
+955,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,49,155,96,NA
+956,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB","07-12-2020 07:00:00",PM10,58,122,93,NA
+957,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB","07-12-2020 07:00:00",NO2,9,76,29,NA
+958,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB","07-12-2020 07:00:00",NH3,2,2,2,NA
+959,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB","07-12-2020 07:00:00",SO2,6,19,10,NA
+960,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB","07-12-2020 07:00:00",CO,22,70,48,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+961,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB","07-12-2020 07:00:00",OZONE,4,52,15,NA
+962,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,35,173,82,NA
+963,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB","07-12-2020 07:00:00",PM10,84,343,175,NA
+964,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB","07-12-2020 07:00:00",NO2,16,174,99,NA
+965,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB","07-12-2020 07:00:00",NH3,11,22,17,NA
+966,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB","07-12-2020 07:00:00",SO2,1,26,7,NA
+967,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB","07-12-2020 07:00:00",CO,15,108,81,NA
+968,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB","07-12-2020 07:00:00",OZONE,1,155,2,NA
+969,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,44,197,111,NA
+970,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB","07-12-2020 07:00:00",NO2,3,50,26,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+971,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+972,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB","07-12-2020 07:00:00",SO2,20,23,22,NA
+973,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB","07-12-2020 07:00:00",CO,19,82,52,NA
+974,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,69,199,114,NA
+975,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB","07-12-2020 07:00:00",PM10,85,164,119,NA
+976,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB","07-12-2020 07:00:00",NO2,31,130,70,NA
+977,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB","07-12-2020 07:00:00",NH3,3,5,4,NA
+978,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB","07-12-2020 07:00:00",SO2,8,21,12,NA
+979,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB","07-12-2020 07:00:00",CO,38,106,80,NA
+980,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB","07-12-2020 07:00:00",OZONE,3,162,13,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+981,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,67,250,141,NA
+982,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB","07-12-2020 07:00:00",PM10,93,143,115,NA
+983,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB","07-12-2020 07:00:00",NO2,25,114,69,NA
+984,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB","07-12-2020 07:00:00",NH3,4,6,5,NA
+985,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB","07-12-2020 07:00:00",SO2,9,41,20,NA
+986,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB","07-12-2020 07:00:00",CO,14,78,52,NA
+987,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB","07-12-2020 07:00:00",OZONE,4,5,4,NA
+988,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+989,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+990,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB","07-12-2020 07:00:00",NO2,31,90,52,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+991,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB","07-12-2020 07:00:00",NH3,6,29,13,NA
+992,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB","07-12-2020 07:00:00",SO2,1,24,3,NA
+993,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB","07-12-2020 07:00:00",CO,2,115,36,NA
+994,India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB","07-12-2020 07:00:00",OZONE,8,21,13,NA
+995,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB","07-12-2020 07:00:00",PM2.5,53,262,134,NA
+996,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB","07-12-2020 07:00:00",PM10,49,156,96,NA
+997,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB","07-12-2020 07:00:00",NO2,32,118,65,NA
+998,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB","07-12-2020 07:00:00",NH3,2,8,4,NA
+999,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB","07-12-2020 07:00:00",SO2,1,25,7,NA
+1000,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB","07-12-2020 07:00:00",CO,2,109,26,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1001,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+1002,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,54,322,164,NA
+1003,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB","07-12-2020 07:00:00",PM10,69,281,139,NA
+1004,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB","07-12-2020 07:00:00",NO2,9,59,32,NA
+1005,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB","07-12-2020 07:00:00",SO2,27,59,38,NA
+1006,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB","07-12-2020 07:00:00",CO,6,117,54,NA
+1007,India,Maharashtra,"Navi Mumbai","Mahape, Navi Mumbai - MPCB","07-12-2020 07:00:00",OZONE,4,63,9,NA
+1008,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB","07-12-2020 07:00:00",PM2.5,52,309,172,NA
+1009,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB","07-12-2020 07:00:00",PM10,64,186,140,NA
+1010,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB","07-12-2020 07:00:00",NO2,3,17,10,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1011,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB","07-12-2020 07:00:00",NH3,6,8,7,NA
+1012,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB","07-12-2020 07:00:00",SO2,3,11,6,NA
+1013,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB","07-12-2020 07:00:00",CO,36,80,70,NA
+1014,India,Maharashtra,"Navi Mumbai","Nerul, Navi Mumbai - MPCB","07-12-2020 07:00:00",OZONE,22,27,24,NA
+1015,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM","07-12-2020 07:00:00",PM2.5,28,302,104,NA
+1016,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM","07-12-2020 07:00:00",PM10,40,163,104,NA
+1017,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM","07-12-2020 07:00:00",NO2,39,151,94,NA
+1018,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM","07-12-2020 07:00:00",NH3,3,9,6,NA
+1019,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM","07-12-2020 07:00:00",SO2,2,11,7,NA
+1020,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM","07-12-2020 07:00:00",CO,22,109,59,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1021,India,Maharashtra,"Navi Mumbai","Sector-19A Nerul, Navi Mumbai - IITM","07-12-2020 07:00:00",OZONE,1,47,1,NA
+1022,India,Maharashtra,Pune,"Bhosari, Pune - IITM","07-12-2020 07:00:00",PM2.5,57,422,226,NA
+1023,India,Maharashtra,Pune,"Bhosari, Pune - IITM","07-12-2020 07:00:00",PM10,58,428,173,NA
+1024,India,Maharashtra,Pune,"Bhosari, Pune - IITM","07-12-2020 07:00:00",OZONE,3,20,3,NA
+1025,India,Maharashtra,Pune,"Karve Road, Pune - MPCB","07-12-2020 07:00:00",PM2.5,41,204,82,NA
+1026,India,Maharashtra,Pune,"Karve Road, Pune - MPCB","07-12-2020 07:00:00",PM10,33,113,61,NA
+1027,India,Maharashtra,Pune,"Karve Road, Pune - MPCB","07-12-2020 07:00:00",NO2,16,60,30,NA
+1028,India,Maharashtra,Pune,"Karve Road, Pune - MPCB","07-12-2020 07:00:00",SO2,13,48,24,NA
+1029,India,Maharashtra,Pune,"Karve Road, Pune - MPCB","07-12-2020 07:00:00",CO,44,49,48,NA
+1030,India,Maharashtra,Pune,"Karve Road, Pune - MPCB","07-12-2020 07:00:00",OZONE,18,65,29,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1031,India,Maharashtra,Pune,"Mhada Colony, Pune - IITM","07-12-2020 07:00:00",PM2.5,66,324,162,NA
+1032,India,Maharashtra,Pune,"Mhada Colony, Pune - IITM","07-12-2020 07:00:00",PM10,67,197,116,NA
+1033,India,Maharashtra,Pune,"Mhada Colony, Pune - IITM","07-12-2020 07:00:00",NO2,27,198,104,NA
+1034,India,Maharashtra,Pune,"Mhada Colony, Pune - IITM","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+1035,India,Maharashtra,Pune,"Mhada Colony, Pune - IITM","07-12-2020 07:00:00",OZONE,1,50,6,NA
+1036,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+1037,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+1038,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+1039,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+1040,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1041,India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM","07-12-2020 07:00:00",PM2.5,39,183,111,NA
+1042,India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM","07-12-2020 07:00:00",PM10,40,121,91,NA
+1043,India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM","07-12-2020 07:00:00",NO2,17,19,18,NA
+1044,India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM","07-12-2020 07:00:00",CO,28,40,34,NA
+1045,India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM","07-12-2020 07:00:00",OZONE,30,35,32,NA
+1046,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+1047,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+1048,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+1049,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+1050,India,Maharashtra,Solapur,"Solapur, Solapur - MPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1051,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB","07-12-2020 07:00:00",PM10,80,423,202,NA
+1052,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB","07-12-2020 07:00:00",SO2,2,41,11,NA
+1053,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB","07-12-2020 07:00:00",CO,8,55,31,NA
+1054,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB","07-12-2020 07:00:00",OZONE,1,76,6,NA
+1055,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB","07-12-2020 07:00:00",PM2.5,57,500,128,NA
+1056,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB","07-12-2020 07:00:00",PM10,48,462,95,NA
+1057,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+1058,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB","07-12-2020 07:00:00",NH3,4,8,5,NA
+1059,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB","07-12-2020 07:00:00",SO2,2,4,3,NA
+1060,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB","07-12-2020 07:00:00",OZONE,1,4,2,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1061,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB","07-12-2020 07:00:00",PM2.5,32,319,84,NA
+1062,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB","07-12-2020 07:00:00",PM10,35,157,73,NA
+1063,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB","07-12-2020 07:00:00",NO2,3,4,3,NA
+1064,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB","07-12-2020 07:00:00",NH3,1,1,1,NA
+1065,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB","07-12-2020 07:00:00",SO2,19,20,19,NA
+1066,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB","07-12-2020 07:00:00",CO,14,51,22,NA
+1067,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB","07-12-2020 07:00:00",OZONE,6,11,8,NA
+1068,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+1069,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+1070,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1071,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+1072,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+1073,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+1074,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+1075,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB","07-12-2020 07:00:00",PM2.5,44,333,147,NA
+1076,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB","07-12-2020 07:00:00",PM10,73,296,147,NA
+1077,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB","07-12-2020 07:00:00",NO2,18,124,46,NA
+1078,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB","07-12-2020 07:00:00",NH3,1,12,5,NA
+1079,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB","07-12-2020 07:00:00",SO2,21,121,51,NA
+1080,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB","07-12-2020 07:00:00",CO,16,122,101,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1081,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB","07-12-2020 07:00:00",OZONE,12,151,14,NA
+1082,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB","07-12-2020 07:00:00",PM2.5,92,309,216,NA
+1083,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB","07-12-2020 07:00:00",PM10,96,158,127,NA
+1084,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB","07-12-2020 07:00:00",NO2,23,32,27,NA
+1085,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB","07-12-2020 07:00:00",NH3,7,13,9,NA
+1086,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB","07-12-2020 07:00:00",SO2,1,26,11,NA
+1087,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB","07-12-2020 07:00:00",CO,8,78,26,NA
+1088,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB","07-12-2020 07:00:00",OZONE,6,31,10,NA
+1089,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB","07-12-2020 07:00:00",PM2.5,41,295,182,NA
+1090,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB","07-12-2020 07:00:00",PM10,88,321,164,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1091,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB","07-12-2020 07:00:00",NO2,25,36,30,NA
+1092,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB","07-12-2020 07:00:00",SO2,5,11,8,NA
+1093,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB","07-12-2020 07:00:00",CO,32,61,49,NA
+1094,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB","07-12-2020 07:00:00",PM2.5,57,167,117,NA
+1095,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB","07-12-2020 07:00:00",PM10,117,236,186,NA
+1096,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB","07-12-2020 07:00:00",NO2,7,24,10,NA
+1097,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB","07-12-2020 07:00:00",NH3,1,5,2,NA
+1098,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB","07-12-2020 07:00:00",SO2,11,79,21,NA
+1099,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB","07-12-2020 07:00:00",CO,18,53,31,NA
+1100,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB","07-12-2020 07:00:00",OZONE,22,37,25,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1101,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB","07-12-2020 07:00:00",PM2.5,77,226,153,NA
+1102,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB","07-12-2020 07:00:00",PM10,101,158,133,NA
+1103,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB","07-12-2020 07:00:00",NO2,17,81,34,NA
+1104,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB","07-12-2020 07:00:00",NH3,6,17,9,NA
+1105,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB","07-12-2020 07:00:00",SO2,6,21,11,NA
+1106,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB","07-12-2020 07:00:00",CO,8,59,26,NA
+1107,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB","07-12-2020 07:00:00",OZONE,9,20,12,NA
+1108,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB","07-12-2020 07:00:00",PM2.5,188,304,248,NA
+1109,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB","07-12-2020 07:00:00",PM10,121,166,146,NA
+1110,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB","07-12-2020 07:00:00",NO2,43,65,56,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1111,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB","07-12-2020 07:00:00",NH3,7,7,7,NA
+1112,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB","07-12-2020 07:00:00",SO2,3,20,8,NA
+1113,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB","07-12-2020 07:00:00",CO,27,47,33,NA
+1114,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB","07-12-2020 07:00:00",OZONE,7,18,10,NA
+1115,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB","07-12-2020 07:00:00",PM2.5,82,335,234,NA
+1116,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB","07-12-2020 07:00:00",PM10,107,323,205,NA
+1117,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB","07-12-2020 07:00:00",NO2,12,38,19,NA
+1118,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB","07-12-2020 07:00:00",NH3,6,17,8,NA
+1119,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB","07-12-2020 07:00:00",SO2,4,7,6,NA
+1120,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB","07-12-2020 07:00:00",CO,24,33,28,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1121,India,Punjab,"Mandi Gobindgarh","RIMT University, Mandi Gobindgarh - PPCB","07-12-2020 07:00:00",OZONE,2,9,7,NA
+1122,India,Punjab,Patiala,"Model Town, Patiala - PPCB","07-12-2020 07:00:00",PM2.5,91,243,161,NA
+1123,India,Punjab,Patiala,"Model Town, Patiala - PPCB","07-12-2020 07:00:00",PM10,107,172,138,NA
+1124,India,Punjab,Patiala,"Model Town, Patiala - PPCB","07-12-2020 07:00:00",NO2,15,21,19,NA
+1125,India,Punjab,Patiala,"Model Town, Patiala - PPCB","07-12-2020 07:00:00",NH3,7,16,12,NA
+1126,India,Punjab,Patiala,"Model Town, Patiala - PPCB","07-12-2020 07:00:00",SO2,5,11,7,NA
+1127,India,Punjab,Patiala,"Model Town, Patiala - PPCB","07-12-2020 07:00:00",CO,57,121,83,NA
+1128,India,Punjab,Patiala,"Model Town, Patiala - PPCB","07-12-2020 07:00:00",OZONE,3,71,17,NA
+1129,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements","07-12-2020 07:00:00",PM2.5,45,161,96,NA
+1130,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements","07-12-2020 07:00:00",PM10,53,171,107,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1131,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements","07-12-2020 07:00:00",NO2,20,26,23,NA
+1132,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements","07-12-2020 07:00:00",SO2,7,21,16,NA
+1133,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements","07-12-2020 07:00:00",CO,9,41,32,NA
+1134,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB","07-12-2020 07:00:00",PM2.5,31,104,73,NA
+1135,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB","07-12-2020 07:00:00",PM10,38,126,83,NA
+1136,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB","07-12-2020 07:00:00",NO2,12,88,45,NA
+1137,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB","07-12-2020 07:00:00",NH3,6,12,9,NA
+1138,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB","07-12-2020 07:00:00",SO2,7,11,9,NA
+1139,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB","07-12-2020 07:00:00",CO,23,106,39,NA
+1140,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB","07-12-2020 07:00:00",OZONE,9,72,23,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1141,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB","07-12-2020 07:00:00",PM2.5,65,219,102,NA
+1142,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB","07-12-2020 07:00:00",PM10,73,184,108,NA
+1143,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB","07-12-2020 07:00:00",NO2,40,99,62,NA
+1144,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB","07-12-2020 07:00:00",NH3,1,7,4,NA
+1145,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB","07-12-2020 07:00:00",SO2,9,23,16,NA
+1146,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB","07-12-2020 07:00:00",CO,17,104,50,NA
+1147,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB","07-12-2020 07:00:00",OZONE,4,70,22,NA
+1148,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",PM2.5,24,326,119,NA
+1149,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",PM10,52,191,109,NA
+1150,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",NO2,31,147,92,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1151,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",NH3,10,82,31,NA
+1152,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",SO2,7,20,14,NA
+1153,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",CO,2,123,24,NA
+1154,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",OZONE,1,56,5,NA
+1155,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB","07-12-2020 07:00:00",PM2.5,47,293,161,NA
+1156,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB","07-12-2020 07:00:00",PM10,43,184,133,NA
+1157,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB","07-12-2020 07:00:00",NO2,41,130,88,NA
+1158,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB","07-12-2020 07:00:00",NH3,9,54,22,NA
+1159,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB","07-12-2020 07:00:00",SO2,10,19,14,NA
+1160,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB","07-12-2020 07:00:00",CO,4,110,65,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1161,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB","07-12-2020 07:00:00",OZONE,10,63,11,NA
+1162,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",PM2.5,24,133,77,NA
+1163,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",PM10,73,459,130,NA
+1164,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",NO2,10,87,35,NA
+1165,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",NH3,7,23,12,NA
+1166,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",SO2,7,18,14,NA
+1167,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",CO,14,121,46,NA
+1168,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB","07-12-2020 07:00:00",OZONE,8,77,26,NA
+1169,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB","07-12-2020 07:00:00",PM2.5,57,327,188,NA
+1170,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB","07-12-2020 07:00:00",PM10,66,196,151,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1171,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB","07-12-2020 07:00:00",NO2,11,64,34,NA
+1172,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB","07-12-2020 07:00:00",SO2,3,17,11,NA
+1173,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB","07-12-2020 07:00:00",CO,6,59,23,NA
+1174,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB","07-12-2020 07:00:00",OZONE,5,45,20,NA
+1175,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB","07-12-2020 07:00:00",PM2.5,29,324,115,NA
+1176,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB","07-12-2020 07:00:00",PM10,65,173,105,NA
+1177,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB","07-12-2020 07:00:00",NO2,16,46,29,NA
+1178,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB","07-12-2020 07:00:00",NH3,6,26,10,NA
+1179,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB","07-12-2020 07:00:00",SO2,11,13,12,NA
+1180,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB","07-12-2020 07:00:00",CO,12,96,45,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1181,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB","07-12-2020 07:00:00",OZONE,14,25,16,NA
+1182,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB","07-12-2020 07:00:00",PM2.5,49,270,94,NA
+1183,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB","07-12-2020 07:00:00",PM10,61,331,123,NA
+1184,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB","07-12-2020 07:00:00",NO2,5,27,20,NA
+1185,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB","07-12-2020 07:00:00",NH3,2,9,6,NA
+1186,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB","07-12-2020 07:00:00",SO2,3,17,11,NA
+1187,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB","07-12-2020 07:00:00",CO,17,98,44,NA
+1188,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB","07-12-2020 07:00:00",OZONE,8,89,15,NA
+1189,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB","07-12-2020 07:00:00",PM2.5,43,253,116,NA
+1190,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB","07-12-2020 07:00:00",PM10,51,195,122,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1191,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB","07-12-2020 07:00:00",NO2,12,29,20,NA
+1192,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB","07-12-2020 07:00:00",NH3,3,8,5,NA
+1193,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB","07-12-2020 07:00:00",SO2,3,20,10,NA
+1194,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB","07-12-2020 07:00:00",CO,23,148,35,NA
+1195,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB","07-12-2020 07:00:00",OZONE,17,116,22,NA
+1196,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB","07-12-2020 07:00:00",PM2.5,6,14,9,NA
+1197,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB","07-12-2020 07:00:00",NO2,3,16,6,NA
+1198,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB","07-12-2020 07:00:00",SO2,5,6,5,NA
+1199,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB","07-12-2020 07:00:00",CO,36,37,36,NA
+1200,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB","07-12-2020 07:00:00",OZONE,1,27,1,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1201,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB","07-12-2020 07:00:00",PM2.5,2,38,13,NA
+1202,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+1203,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB","07-12-2020 07:00:00",NO2,10,26,16,NA
+1204,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB","07-12-2020 07:00:00",NH3,4,5,4,NA
+1205,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB","07-12-2020 07:00:00",SO2,1,5,3,NA
+1206,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+1207,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB","07-12-2020 07:00:00",PM10,4,71,15,NA
+1208,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB","07-12-2020 07:00:00",NO2,4,19,8,NA
+1209,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB","07-12-2020 07:00:00",NH3,2,7,4,NA
+1210,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB","07-12-2020 07:00:00",SO2,6,10,8,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1211,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB","07-12-2020 07:00:00",CO,12,30,18,NA
+1212,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB","07-12-2020 07:00:00",OZONE,1,89,24,NA
+1213,India,TamilNadu,Chennai,"Manali, Chennai - CPCB","07-12-2020 07:00:00",PM2.5,30,62,43,NA
+1214,India,TamilNadu,Chennai,"Manali, Chennai - CPCB","07-12-2020 07:00:00",NO2,7,11,8,NA
+1215,India,TamilNadu,Chennai,"Manali, Chennai - CPCB","07-12-2020 07:00:00",NH3,9,12,11,NA
+1216,India,TamilNadu,Chennai,"Manali, Chennai - CPCB","07-12-2020 07:00:00",SO2,9,10,10,NA
+1217,India,TamilNadu,Chennai,"Manali, Chennai - CPCB","07-12-2020 07:00:00",CO,39,60,51,NA
+1218,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB","07-12-2020 07:00:00",PM2.5,4,21,11,NA
+1219,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB","07-12-2020 07:00:00",NO2,2,19,5,NA
+1220,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB","07-12-2020 07:00:00",SO2,13,21,17,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1221,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB","07-12-2020 07:00:00",CO,14,34,22,NA
+1222,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB","07-12-2020 07:00:00",OZONE,4,10,5,NA
+1223,India,TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB","07-12-2020 07:00:00",PM2.5,4,37,21,NA
+1224,India,TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+1225,India,TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB","07-12-2020 07:00:00",NO2,5,30,23,NA
+1226,India,TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB","07-12-2020 07:00:00",NH3,1,1,1,NA
+1227,India,TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB","07-12-2020 07:00:00",SO2,17,18,17,NA
+1228,India,TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB","07-12-2020 07:00:00",CO,25,46,30,NA
+1229,India,TamilNadu,Coimbatore,"SIDCO Kurichi, Coimbatore - TNPCB","07-12-2020 07:00:00",OZONE,1,13,4,NA
+1230,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB","07-12-2020 07:00:00",PM2.5,33,181,100,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1231,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB","07-12-2020 07:00:00",PM10,52,153,100,NA
+1232,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB","07-12-2020 07:00:00",NO2,10,72,33,NA
+1233,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB","07-12-2020 07:00:00",NH3,2,4,3,NA
+1234,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB","07-12-2020 07:00:00",SO2,6,37,14,NA
+1235,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB","07-12-2020 07:00:00",CO,6,57,19,NA
+1236,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB","07-12-2020 07:00:00",OZONE,18,57,29,NA
+1237,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB","07-12-2020 07:00:00",PM2.5,35,174,85,NA
+1238,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB","07-12-2020 07:00:00",PM10,56,146,94,NA
+1239,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB","07-12-2020 07:00:00",NO2,25,92,46,NA
+1240,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB","07-12-2020 07:00:00",NH3,2,4,3,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1241,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB","07-12-2020 07:00:00",SO2,5,23,12,NA
+1242,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB","07-12-2020 07:00:00",CO,12,79,37,NA
+1243,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB","07-12-2020 07:00:00",OZONE,4,83,21,NA
+1244,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+1245,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+1246,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+1247,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+1248,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+1249,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB","07-12-2020 07:00:00",CO,8,79,55,NA
+1250,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB","07-12-2020 07:00:00",OZONE,7,57,10,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1251,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB","07-12-2020 07:00:00",PM2.5,43,187,129,NA
+1252,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB","07-12-2020 07:00:00",PM10,59,157,123,NA
+1253,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB","07-12-2020 07:00:00",NO2,55,114,88,NA
+1254,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+1255,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB","07-12-2020 07:00:00",SO2,1,23,6,NA
+1256,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB","07-12-2020 07:00:00",CO,2,84,57,NA
+1257,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB","07-12-2020 07:00:00",OZONE,2,43,4,NA
+1258,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB","07-12-2020 07:00:00",PM2.5,52,265,148,NA
+1259,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB","07-12-2020 07:00:00",NO2,22,142,74,NA
+1260,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB","07-12-2020 07:00:00",SO2,8,32,18,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1261,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB","07-12-2020 07:00:00",CO,24,106,39,NA
+1262,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB","07-12-2020 07:00:00",OZONE,5,51,7,NA
+1263,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+1264,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB","07-12-2020 07:00:00",PM10,104,157,133,NA
+1265,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB","07-12-2020 07:00:00",NO2,84,114,97,NA
+1266,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB","07-12-2020 07:00:00",NH3,3,3,3,NA
+1267,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB","07-12-2020 07:00:00",SO2,4,7,5,NA
+1268,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB","07-12-2020 07:00:00",CO,11,16,13,NA
+1269,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB","07-12-2020 07:00:00",OZONE,12,14,13,NA
+1270,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB","07-12-2020 07:00:00",PM2.5,76,144,94,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1271,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB","07-12-2020 07:00:00",PM10,74,114,92,NA
+1272,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB","07-12-2020 07:00:00",NO2,7,19,13,NA
+1273,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB","07-12-2020 07:00:00",NH3,1,3,2,NA
+1274,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB","07-12-2020 07:00:00",SO2,15,16,15,NA
+1275,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB","07-12-2020 07:00:00",CO,42,85,68,NA
+1276,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB","07-12-2020 07:00:00",OZONE,1,17,2,NA
+1277,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB","07-12-2020 07:00:00",PM2.5,302,378,337,NA
+1278,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB","07-12-2020 07:00:00",NO2,34,132,62,NA
+1279,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB","07-12-2020 07:00:00",CO,3,65,13,NA
+1280,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB","07-12-2020 07:00:00",OZONE,23,143,84,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1281,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB","07-12-2020 07:00:00",PM2.5,255,460,388,NA
+1282,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB","07-12-2020 07:00:00",PM10,151,430,336,NA
+1283,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB","07-12-2020 07:00:00",NO2,26,60,37,NA
+1284,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB","07-12-2020 07:00:00",NH3,6,10,8,NA
+1285,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+1286,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB","07-12-2020 07:00:00",CO,53,95,79,NA
+1287,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB","07-12-2020 07:00:00",OZONE,2,212,13,NA
+1288,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB","07-12-2020 07:00:00",PM2.5,329,489,409,NA
+1289,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB","07-12-2020 07:00:00",PM10,193,441,339,NA
+1290,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB","07-12-2020 07:00:00",NO2,10,123,67,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1291,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB","07-12-2020 07:00:00",NH3,8,13,11,NA
+1292,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB","07-12-2020 07:00:00",SO2,2,13,8,NA
+1293,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB","07-12-2020 07:00:00",CO,35,114,105,NA
+1294,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB","07-12-2020 07:00:00",OZONE,1,188,5,NA
+1295,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB","07-12-2020 07:00:00",PM2.5,323,500,456,NA
+1296,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB","07-12-2020 07:00:00",PM10,235,500,418,NA
+1297,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB","07-12-2020 07:00:00",NO2,34,128,72,NA
+1298,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB","07-12-2020 07:00:00",NH3,20,33,26,NA
+1299,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB","07-12-2020 07:00:00",SO2,5,43,16,NA
+1300,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB","07-12-2020 07:00:00",CO,40,143,107,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1301,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB","07-12-2020 07:00:00",OZONE,5,191,13,NA
+1302,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB","07-12-2020 07:00:00",PM2.5,329,487,428,NA
+1303,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB","07-12-2020 07:00:00",PM10,256,500,409,NA
+1304,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB","07-12-2020 07:00:00",NO2,53,291,122,NA
+1305,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB","07-12-2020 07:00:00",NH3,12,23,18,NA
+1306,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB","07-12-2020 07:00:00",SO2,2,37,16,NA
+1307,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB","07-12-2020 07:00:00",CO,96,164,76,NA
+1308,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB","07-12-2020 07:00:00",OZONE,6,250,19,NA
+1309,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB","07-12-2020 07:00:00",PM2.5,325,465,413,NA
+1310,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB","07-12-2020 07:00:00",PM10,249,439,354,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1311,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB","07-12-2020 07:00:00",NO2,73,332,194,NA
+1312,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB","07-12-2020 07:00:00",NH3,24,35,29,NA
+1313,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB","07-12-2020 07:00:00",SO2,6,12,9,NA
+1314,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB","07-12-2020 07:00:00",CO,25,132,84,NA
+1315,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB","07-12-2020 07:00:00",OZONE,19,101,28,NA
+1316,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB","07-12-2020 07:00:00",PM2.5,270,473,394,NA
+1317,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB","07-12-2020 07:00:00",PM10,155,436,329,NA
+1318,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB","07-12-2020 07:00:00",NO2,45,214,130,NA
+1319,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB","07-12-2020 07:00:00",NH3,10,15,13,NA
+1320,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB","07-12-2020 07:00:00",SO2,9,18,12,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1321,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB","07-12-2020 07:00:00",CO,103,136,129,NA
+1322,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - III, Greater Noida - UPPCB","07-12-2020 07:00:00",OZONE,3,171,5,NA
+1323,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB","07-12-2020 07:00:00",PM2.5,301,497,417,NA
+1324,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB","07-12-2020 07:00:00",PM10,198,450,376,NA
+1325,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB","07-12-2020 07:00:00",NO2,42,238,116,NA
+1326,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB","07-12-2020 07:00:00",NH3,14,25,19,NA
+1327,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB","07-12-2020 07:00:00",SO2,5,31,16,NA
+1328,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB","07-12-2020 07:00:00",CO,16,16,16,NA
+1329,India,Uttar_Pradesh,"Greater Noida","Knowledge Park - V, Greater Noida - UPPCB","07-12-2020 07:00:00",OZONE,2,176,15,NA
+1330,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB","07-12-2020 07:00:00",PM2.5,60,173,110,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1331,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB","07-12-2020 07:00:00",PM10,88,166,125,NA
+1332,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB","07-12-2020 07:00:00",NO2,5,6,6,NA
+1333,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB","07-12-2020 07:00:00",NH3,18,18,18,NA
+1334,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB","07-12-2020 07:00:00",SO2,1,4,2,NA
+1335,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB","07-12-2020 07:00:00",CO,56,166,98,NA
+1336,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB","07-12-2020 07:00:00",OZONE,15,37,17,NA
+1337,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB","07-12-2020 07:00:00",PM2.5,305,500,395,NA
+1338,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB","07-12-2020 07:00:00",NO2,89,288,164,NA
+1339,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB","07-12-2020 07:00:00",SO2,9,65,37,NA
+1340,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB","07-12-2020 07:00:00",OZONE,2,74,4,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1341,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB","07-12-2020 07:00:00",PM2.5,263,403,343,NA
+1342,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB","07-12-2020 07:00:00",PM10,202,500,348,NA
+1343,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB","07-12-2020 07:00:00",NO2,46,211,113,NA
+1344,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB","07-12-2020 07:00:00",NH3,17,48,30,NA
+1345,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB","07-12-2020 07:00:00",SO2,1,17,9,NA
+1346,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB","07-12-2020 07:00:00",CO,7,110,36,NA
+1347,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB","07-12-2020 07:00:00",OZONE,1,93,2,NA
+1348,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB","07-12-2020 07:00:00",PM2.5,272,386,334,NA
+1349,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB","07-12-2020 07:00:00",NO2,26,194,94,NA
+1350,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB","07-12-2020 07:00:00",SO2,9,15,13,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1351,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB","07-12-2020 07:00:00",OZONE,34,139,38,NA
+1352,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB","07-12-2020 07:00:00",PM2.5,326,500,395,NA
+1353,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB","07-12-2020 07:00:00",PM10,182,452,302,NA
+1354,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB","07-12-2020 07:00:00",NO2,50,185,110,NA
+1355,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB","07-12-2020 07:00:00",NH3,6,26,13,NA
+1356,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB","07-12-2020 07:00:00",SO2,2,14,4,NA
+1357,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB","07-12-2020 07:00:00",CO,15,163,84,NA
+1358,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB","07-12-2020 07:00:00",OZONE,27,46,31,NA
+1359,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB","07-12-2020 07:00:00",PM2.5,340,500,419,NA
+1360,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB","07-12-2020 07:00:00",PM10,225,500,391,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1361,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB","07-12-2020 07:00:00",NO2,55,184,102,NA
+1362,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB","07-12-2020 07:00:00",NH3,8,76,41,NA
+1363,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB","07-12-2020 07:00:00",SO2,3,31,10,NA
+1364,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB","07-12-2020 07:00:00",CO,2,109,40,NA
+1365,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB","07-12-2020 07:00:00",OZONE,7,99,7,NA
+1366,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB","07-12-2020 07:00:00",PM2.5,201,408,324,NA
+1367,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB","07-12-2020 07:00:00",PM10,195,426,314,NA
+1368,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+1369,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB","07-12-2020 07:00:00",NH3,1,5,2,NA
+1370,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB","07-12-2020 07:00:00",SO2,4,13,7,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1371,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB","07-12-2020 07:00:00",OZONE,17,84,52,NA
+1372,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB","07-12-2020 07:00:00",PM2.5,304,473,384,NA
+1373,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB","07-12-2020 07:00:00",PM10,169,484,296,NA
+1374,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB","07-12-2020 07:00:00",NO2,4,35,17,NA
+1375,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB","07-12-2020 07:00:00",NH3,1,2,1,NA
+1376,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB","07-12-2020 07:00:00",SO2,25,36,29,NA
+1377,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB","07-12-2020 07:00:00",CO,52,149,77,NA
+1378,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB","07-12-2020 07:00:00",OZONE,2,177,27,NA
+1379,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB","07-12-2020 07:00:00",PM2.5,201,396,314,NA
+1380,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB","07-12-2020 07:00:00",PM10,190,477,305,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1381,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB","07-12-2020 07:00:00",NO2,118,274,171,NA
+1382,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB","07-12-2020 07:00:00",NH3,9,15,13,NA
+1383,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB","07-12-2020 07:00:00",SO2,3,16,10,NA
+1384,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB","07-12-2020 07:00:00",CO,6,82,15,NA
+1385,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB","07-12-2020 07:00:00",OZONE,1,6,2,NA
+1386,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB","07-12-2020 07:00:00",PM2.5,137,468,343,NA
+1387,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB","07-12-2020 07:00:00",PM10,119,478,278,NA
+1388,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB","07-12-2020 07:00:00",NO2,21,156,71,NA
+1389,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB","07-12-2020 07:00:00",NH3,6,12,8,NA
+1390,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB","07-12-2020 07:00:00",SO2,4,38,18,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1391,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB","07-12-2020 07:00:00",PM2.5,191,421,310,NA
+1392,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB","07-12-2020 07:00:00",PM10,157,447,277,NA
+1393,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB","07-12-2020 07:00:00",NO2,7,26,14,NA
+1394,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB","07-12-2020 07:00:00",NH3,3,4,3,NA
+1395,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB","07-12-2020 07:00:00",SO2,11,41,23,NA
+1396,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB","07-12-2020 07:00:00",CO,8,141,90,NA
+1397,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB","07-12-2020 07:00:00",PM2.5,307,477,407,NA
+1398,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB","07-12-2020 07:00:00",PM10,215,441,355,NA
+1399,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB","07-12-2020 07:00:00",NO2,1,7,9,NA
+1400,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1401,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB","07-12-2020 07:00:00",SO2,23,47,33,NA
+1402,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB","07-12-2020 07:00:00",OZONE,4,53,5,NA
+1403,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD","07-12-2020 07:00:00",PM2.5,311,478,405,NA
+1404,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD","07-12-2020 07:00:00",PM10,229,488,395,NA
+1405,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD","07-12-2020 07:00:00",NO2,21,55,34,NA
+1406,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD","07-12-2020 07:00:00",CO,31,120,72,NA
+1407,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD","07-12-2020 07:00:00",OZONE,3,63,7,NA
+1408,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB","07-12-2020 07:00:00",PM2.5,305,490,416,NA
+1409,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB","07-12-2020 07:00:00",PM10,189,435,353,NA
+1410,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB","07-12-2020 07:00:00",NO2,166,305,211,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1411,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB","07-12-2020 07:00:00",NH3,8,12,10,NA
+1412,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB","07-12-2020 07:00:00",SO2,10,17,13,NA
+1413,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB","07-12-2020 07:00:00",CO,91,139,114,NA
+1414,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB","07-12-2020 07:00:00",OZONE,12,43,19,NA
+1415,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB","07-12-2020 07:00:00",PM2.5,335,500,426,NA
+1416,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB","07-12-2020 07:00:00",PM10,209,434,364,NA
+1417,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB","07-12-2020 07:00:00",NO2,49,136,95,NA
+1418,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB","07-12-2020 07:00:00",NH3,14,18,17,NA
+1419,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB","07-12-2020 07:00:00",SO2,2,7,4,NA
+1420,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB","07-12-2020 07:00:00",CO,57,120,105,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1421,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB","07-12-2020 07:00:00",OZONE,1,27,1,NA
+1422,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB","07-12-2020 07:00:00",PM2.5,116,364,276,NA
+1423,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB","07-12-2020 07:00:00",PM10,145,346,232,NA
+1424,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB","07-12-2020 07:00:00",NO2,63,156,111,NA
+1425,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB","07-12-2020 07:00:00",OZONE,4,275,6,NA
+1426,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB","07-12-2020 07:00:00",PM2.5,278,398,359,NA
+1427,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB","07-12-2020 07:00:00",PM10,153,403,301,NA
+1428,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB","07-12-2020 07:00:00",NO2,42,81,52,NA
+1429,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB","07-12-2020 07:00:00",NH3,7,14,10,NA
+1430,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB","07-12-2020 07:00:00",SO2,6,12,8,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1431,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB","07-12-2020 07:00:00",CO,32,104,83,NA
+1432,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB","07-12-2020 07:00:00",OZONE,3,84,4,NA
+1433,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB","07-12-2020 07:00:00",PM2.5,197,323,261,NA
+1434,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB","07-12-2020 07:00:00",PM10,142,251,177,NA
+1435,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB","07-12-2020 07:00:00",NO2,19,39,27,NA
+1436,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB","07-12-2020 07:00:00",NH3,1,2,2,NA
+1437,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB","07-12-2020 07:00:00",SO2,13,47,28,NA
+1438,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB","07-12-2020 07:00:00",CO,14,80,34,NA
+1439,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB","07-12-2020 07:00:00",OZONE,6,80,9,NA
+1440,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB","07-12-2020 07:00:00",PM2.5,175,310,246,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1441,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB","07-12-2020 07:00:00",PM10,158,315,211,NA
+1442,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB","07-12-2020 07:00:00",SO2,28,140,71,NA
+1443,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB","07-12-2020 07:00:00",CO,32,95,54,NA
+1444,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB","07-12-2020 07:00:00",OZONE,1,53,8,NA
+1445,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB","07-12-2020 07:00:00",PM2.5,180,327,277,NA
+1446,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB","07-12-2020 07:00:00",PM10,110,168,140,NA
+1447,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB","07-12-2020 07:00:00",NO2,22,78,38,NA
+1448,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB","07-12-2020 07:00:00",NH3,3,5,4,NA
+1449,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB","07-12-2020 07:00:00",SO2,5,50,19,NA
+1450,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB","07-12-2020 07:00:00",CO,18,97,50,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1451,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB","07-12-2020 07:00:00",OZONE,12,129,26,NA
+1452,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB","07-12-2020 07:00:00",PM2.5,134,287,216,NA
+1453,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB","07-12-2020 07:00:00",PM10,116,174,144,NA
+1454,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB","07-12-2020 07:00:00",NO2,19,98,41,NA
+1455,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB","07-12-2020 07:00:00",NH3,7,9,8,NA
+1456,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB","07-12-2020 07:00:00",SO2,6,30,15,NA
+1457,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB","07-12-2020 07:00:00",CO,25,65,30,NA
+1458,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB","07-12-2020 07:00:00",OZONE,16,163,44,NA
+1459,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB","07-12-2020 07:00:00",PM2.5,166,325,253,NA
+1460,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB","07-12-2020 07:00:00",PM10,121,218,167,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1461,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB","07-12-2020 07:00:00",NO2,24,70,41,NA
+1462,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB","07-12-2020 07:00:00",NH3,3,5,4,NA
+1463,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB","07-12-2020 07:00:00",SO2,4,67,21,NA
+1464,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB","07-12-2020 07:00:00",CO,20,69,31,NA
+1465,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB","07-12-2020 07:00:00",OZONE,12,137,26,NA
+1466,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB","07-12-2020 07:00:00",PM2.5,155,312,245,NA
+1467,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB","07-12-2020 07:00:00",PM10,112,167,142,NA
+1468,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB","07-12-2020 07:00:00",NO2,44,134,84,NA
+1469,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB","07-12-2020 07:00:00",NH3,6,10,7,NA
+1470,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB","07-12-2020 07:00:00",SO2,8,55,24,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1471,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB","07-12-2020 07:00:00",CO,28,68,34,NA
+1472,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB","07-12-2020 07:00:00",OZONE,4,165,7,NA
+1473,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+1474,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB","07-12-2020 07:00:00",PM10,NA,NA,NA,NA
+1475,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB","07-12-2020 07:00:00",NO2,NA,NA,NA,NA
+1476,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB","07-12-2020 07:00:00",NH3,NA,NA,NA,NA
+1477,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB","07-12-2020 07:00:00",SO2,NA,NA,NA,NA
+1478,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB","07-12-2020 07:00:00",CO,NA,NA,NA,NA
+1479,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB","07-12-2020 07:00:00",OZONE,NA,NA,NA,NA
+1480,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB","07-12-2020 07:00:00",PM2.5,315,377,338,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1481,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB","07-12-2020 07:00:00",PM10,168,284,214,NA
+1482,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB","07-12-2020 07:00:00",NO2,23,46,30,NA
+1483,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB","07-12-2020 07:00:00",NH3,3,5,5,NA
+1484,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB","07-12-2020 07:00:00",SO2,9,62,29,NA
+1485,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB","07-12-2020 07:00:00",CO,35,100,48,NA
+1486,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB","07-12-2020 07:00:00",OZONE,10,110,18,NA
+1487,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB","07-12-2020 07:00:00",PM2.5,NA,NA,NA,NA
+1488,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB","07-12-2020 07:00:00",PM10,117,162,145,NA
+1489,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB","07-12-2020 07:00:00",NO2,67,102,78,NA
+1490,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB","07-12-2020 07:00:00",NH3,3,5,4,NA
+id,country,state,city,station,last_update,pollutant_id,pollutant_min,pollutant_max,pollutant_avg,pollutant_unit
+1491,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB","07-12-2020 07:00:00",SO2,5,49,24,NA
+1492,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB","07-12-2020 07:00:00",CO,46,91,50,NA
+1493,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB","07-12-2020 07:00:00",OZONE,25,132,37,NA
+1494,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB","07-12-2020 07:00:00",PM2.5,103,315,222,NA
+1495,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB","07-12-2020 07:00:00",PM10,99,185,145,NA
+1496,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB","07-12-2020 07:00:00",NO2,32,77,49,NA
+1497,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB","07-12-2020 07:00:00",NH3,1,8,5,NA
+1498,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB","07-12-2020 07:00:00",SO2,8,54,21,NA
+1499,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB","07-12-2020 07:00:00",CO,17,64,25,NA
+1500,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB","07-12-2020 07:00:00",OZONE,3,168,16,NA
