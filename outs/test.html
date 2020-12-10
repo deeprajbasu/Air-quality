@@ -1,0 +1,13 @@
+<div id="topBar">
+    <a href ="#" id="load_home"> HOME </a>
+</div>
+<div id ="content">     </div>   
+</div>
+
+<script>
+$(document).ready( function() {
+    $("#load_home").on("click", function() {
+        $("#content").load("a.html");
+    });
+});
+</script>
